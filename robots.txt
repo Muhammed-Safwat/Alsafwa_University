@@ -1,24 +1,76 @@
+# Robots.txt for Alsafwa University Website
+# https://alsafwa-university.com
+
 User-agent: *
 Allow: /
 
-# Sitemap
-Sitemap: https://turkeyloans.intechdev.net/sitemap.xml
+# Sitemap locations
+Sitemap: https://alsafwa-university.com/sitemap.xml
 
 # Language-specific sitemaps
-Sitemap: https://turkeyloans.intechdev.net/sitemap-ar.xml
-Sitemap: https://turkeyloans.intechdev.net/sitemap-en.xml
+Sitemap: https://alsafwa-university.com/sitemap-ar.xml
+Sitemap: https://alsafwa-university.com/sitemap-en.xml
 
 # Crawl-delay for better server performance
 Crawl-delay: 1
 
-# Disallow admin and private areas (if any)
+# Disallow admin and private areas
 Disallow: /admin/
 Disallow: /private/
 Disallow: /api/
+Disallow: /_/
+Disallow: /node_modules/
+Disallow: /src/
+Disallow: /*.json$
+Disallow: /*.ts$
+Disallow: /*.scss$
+Disallow: /*.css.map$
+Disallow: /*.js.map$
 
 # Allow all language versions
 Allow: /ar/
 Allow: /en/
+Allow: /assets/
+Allow: /favicon.ico
+Allow: /robots.txt
+Allow: /sitemap.xml
 
 # Host declaration
-Host: https://turkeyloans.intechdev.net
+Host: https://alsafwa-university.com
+
+# Additional directives for better SEO
+# Allow search engines to index images
+Allow: /assets/img/
+Allow: /assets/images/
+
+# Block access to sensitive files
+Disallow: /package.json
+Disallow: /angular.json
+Disallow: /tsconfig.json
+Disallow: /.git/
+Disallow: /.gitignore
+Disallow: /README.md
+Disallow: /DESIGN_SYSTEM.md
+
+# Allow social media crawlers
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# Block bad bots (optional - uncomment if needed)
+# User-agent: AhrefsBot
+# Disallow: /
+
+# User-agent: MJ12bot
+# Disallow: /
+
+# User-agent: DotBot
+# Disallow: /

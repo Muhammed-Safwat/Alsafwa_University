@@ -17,7 +17,10 @@ import { LanguageService } from './shared/core/services/language.service';
 import { LanguageStoreService } from './shared/core/services/language-store.service';
 import { LanguageHandlerService } from './shared/core/services/language-handler.service';
 import { RoutingService } from './shared/core/services/routing.service';
-import { SeoService } from './shared/core/services/seo.service';
+import { SEOService } from './shared/core/services/seo.service';
+import { PageSEOService } from './shared/core/services/page-seo.service';
+import { SearchOptimizationService } from './shared/core/services/search-optimization.service';
+import { PerformanceService } from './shared/core/services/performance.service';
 import { PreloaderService } from './shared/core/services/preloader.service';
 
 // Translation loader factory
@@ -61,7 +64,10 @@ export const appConfig: ApplicationConfig = {
     LanguageStoreService,
     LanguageHandlerService,
     RoutingService,
-    SeoService,
+    SEOService,
+    PageSEOService,
+    SearchOptimizationService,
+    PerformanceService,
     PreloaderService
   ],
 };

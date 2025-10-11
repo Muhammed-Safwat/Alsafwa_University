@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- Homepage - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alsafwa-university.com/ar"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://alsafwa-university.com/assets/img/logo.webp</image:loc>
+      <image:title>جامعة صفوت الصفوة الدولية - مؤسسة تعليمية رائدة</image:title>
+      <image:caption>شعار جامعة صفوت الصفوة الدولية - مؤسسة تعليمية رائدة تقدم برامج أكاديمية متميزة</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Homepage - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://alsafwa-university.com/ar"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://alsafwa-university.com/assets/img/logo.webp</image:loc>
+      <image:title>Safwat Al Safwa International University - Leading Educational Institution</image:title>
+      <image:caption>Safwat Al Safwa International University Logo - Leading Educational Institution offering distinguished academic programs</image:caption>
+    </image:image>
+  </url>
+
+  <!-- About Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/about"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- About Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/about</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/about"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/about"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Admissions Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/admissions</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/admissions"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/admissions"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Admissions Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/admissions</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/admissions"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/admissions"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Faculty Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/faculty</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/faculty"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/faculty"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Faculty Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/faculty</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/faculty"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/faculty"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Institutes Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/institutes</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/institutes"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/institutes"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Institutes Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/institutes</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/institutes"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/institutes"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Research Center Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/research</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/research"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/research"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Research Center Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/research</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/research"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/research"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Remote Learning Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/remote-learning</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/remote-learning"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/remote-learning"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Remote Learning Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/remote-learning</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/remote-learning"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/remote-learning"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Contact Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/contact"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Contact Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/contact</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/contact"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/contact"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Terms of Service Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/terms-of-service</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/terms-of-service"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/terms-of-service"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Terms of Service Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/terms-of-service</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/terms-of-service"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/terms-of-service"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Privacy Policy Page - Arabic -->
+  <url>
+    <loc>https://alsafwa-university.com/ar/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/privacy"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- Privacy Policy Page - English -->
+  <url>
+    <loc>https://alsafwa-university.com/en/privacy</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/privacy"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://alsafwa-university.com/ar/privacy"/>
+    <lastmod>2024-01-15</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
