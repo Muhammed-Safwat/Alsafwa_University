@@ -6,7 +6,7 @@ import { AutoLanguageLinkDirective } from '../../core/directives/auto-language-l
 @Component({
   selector: 'app-banner',
   standalone: true,
-  imports: [RouterModule, TranslateModule, AutoLanguageLinkDirective],
+  imports: [RouterModule, TranslateModule],
   templateUrl: './banner.component.html',
   styleUrl: './banner.component.scss'
 })
