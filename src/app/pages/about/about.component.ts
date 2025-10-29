@@ -7,7 +7,7 @@ import { FooterComponent } from "../../shared/components/layout/footer/footer.co
 import { PageTitleComponent } from "../../shared/components/page-title/page-title.component";
 import { HistoryComponent } from "../../shared/components/history/history.component";
 import { StatsComponent } from "../../shared/components/stats/stats.component";
-import { CounterService } from "../../shared/core/services/counter.service"; 
+import { CounterService } from "../../shared/core/services/counter.service";
 
 @Component({
   selector: 'app-about',
@@ -17,8 +17,7 @@ import { CounterService } from "../../shared/core/services/counter.service";
     HeaderComponent,
     FooterComponent,
     PageTitleComponent,
-    HistoryComponent,
-    StatsComponent,
+    HistoryComponent, 
     TranslateModule
 ],
   templateUrl: './about.component.html',
@@ -36,7 +35,7 @@ export class AboutComponent implements OnInit, AfterViewInit {
     setTimeout(() => {
       if (typeof AOS !== 'undefined') {
         AOS.refresh();
-      } 
+      }
       this.counterService.initializeCounters();
     }, 100);
   }

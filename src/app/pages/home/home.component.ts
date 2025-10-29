@@ -19,13 +19,13 @@ import { ApplicationDatesComponent } from "../../shared/components/application-d
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CommonModule, TranslateModule, HeaderComponent, FooterComponent, BannerComponent, AboutComponent, BenefitsComponent, DegreesComponent, StatsComponent, RecentNewsComponent, ApplicationDatesComponent],
+  imports: [CommonModule, TranslateModule, HeaderComponent, FooterComponent, BannerComponent, AboutComponent, BenefitsComponent, DegreesComponent, RecentNewsComponent, ApplicationDatesComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
 })
 export class HomeComponent implements OnInit, AfterViewInit {
 
-  constructor(private counterService: CounterService) {}
+  constructor(private counterService: CounterService) { }
   ngOnInit() {
 
 
@@ -36,7 +36,7 @@ export class HomeComponent implements OnInit, AfterViewInit {
       if (typeof AOS !== 'undefined') {
         AOS.refresh();
       }
-        this.counterService.initializeCounters();
+      this.counterService.initializeCounters();
     }, 100);
   }
 }
