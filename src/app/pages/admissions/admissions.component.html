@@ -1,8 +1,7 @@
 <app-header></app-header>
-<app-page-title
-  [title]="'page_titles.admissions.title' | translate"
-  [description]="'page_titles.admissions.description' | translate"
-  [currentPage]="'page_titles.admissions.current_page' | translate">
+<app-page-title [title]="'page_titles.admissions.title' | translate"
+                [description]="'page_titles.admissions.description' | translate"
+                [currentPage]="'page_titles.admissions.current_page' | translate">
 </app-page-title>
 <!-- Admissions Section -->
 <section id="admissions"
@@ -57,20 +56,16 @@
             <h3>{{ 'admissions.important_dates' | translate }}</h3>
             <div class="deadline-grid mt-4">
               <div class="deadline-item">
-                <h4>{{ 'admissions.deadlines.semester1' | translate }}</h4>
-                <div class="date">{{ 'admissions.dates.march_15' | translate }}</div>
+                <h4>{{ 'admissions.deadlines.june' | translate }}</h4>
+                <div class="date">{{ 'admissions.dates.june_date' | translate }}</div>
               </div>
               <div class="deadline-item">
-                <h4>{{ 'admissions.deadlines.semester2' | translate }}</h4>
-                <div class="date">{{ 'admissions.dates.october_1' | translate }}</div>
+                <h4>{{ 'admissions.deadlines.february' | translate }}</h4>
+                <div class="date">{{ 'admissions.dates.february_date' | translate }}</div>
               </div>
               <div class="deadline-item">
-                <h4>{{ 'admissions.deadlines.summer' | translate }}</h4>
-                <div class="date">{{ 'admissions.dates.january_30' | translate }}</div>
-              </div>
-              <div class="deadline-item">
-                <h4>{{ 'admissions.deadlines.early_admission' | translate }}</h4>
-                <div class="date">{{ 'admissions.dates.november_15' | translate }}</div>
+                <h4>{{ 'admissions.deadlines.october' | translate }}</h4>
+                <div class="date">{{ 'admissions.dates.october_date' | translate }}</div>
               </div>
             </div>
           </div>
@@ -93,7 +88,7 @@
                 <p>{{ 'admissions.requirements_list.academic_records.description' | translate }}</p>
               </div>
             </div>
-  
+
             <div class="requirement-item"
                  data-aos="fade-up"
                  data-aos-delay="300">
@@ -104,7 +99,7 @@
                 <h4>{{ 'admissions.requirements_list.personal_statement.title' | translate }}</h4>
                 <p>{{ 'admissions.requirements_list.personal_statement.description' | translate }}</p>
               </div>
-            </div> 
+            </div>
             <div class="requirement-item"
                  data-aos="fade-up"
                  data-aos-delay="400">
