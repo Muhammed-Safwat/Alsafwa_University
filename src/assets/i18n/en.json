@@ -8,14 +8,21 @@
     "research": "Research Center",
     "remote_learning": "Remote Learning",
     "contact": "Contact Us",
+    "platform": "Platform",
     "login": "Login"
   },
   "footer": {
     "important_links": "Important Links",
+    "home": "Home",
+    "about_university": "About University",
+    "admission": "Admission",
+    "faculties": "Faculties",
+    "institutes": "Institutes",
+    "research_center": "Research Center",
+    "distance_learning": "Distance Learning",
     "services": "Our Services",
     "resources": "Resources",
     "quick_links": "Quick Links",
-    "home": "Home",
     "about_us": "About Us",
     "our_services": "Our Services",
     "terms_conditions": "Terms & Conditions",
@@ -44,6 +51,16 @@
     "phone": "Phone:",
     "email": "Email:"
   },
+  "application": {
+    "title": "Application Dates",
+    "description": "Admission is available in three academic terms each year",
+    "february": "February",
+    "feb_date": "Start of the second academic term",
+    "june": "June",
+    "june_date": "Start of the summer term",
+    "october": "October",
+    "oct_date": "Start of the first academic term"
+  },
   "language": {
     "arabic": "العربية",
     "english": "English"
@@ -71,6 +88,7 @@
     }
   },
   "about": {
+    "top-title": "About University",
     "title": "Safwat Al Safwa University, <span>Excellence in Education and Knowledge</span>",
     "description": "Safwat Al Safwa University is committed to providing high-quality education to graduate distinguished students who compete with students from the finest universities. We focus on interactive, self-directed, and collaborative learning, scientific research, and training to establish knowledge. We provide continuous education for graduates and community members to keep pace with rapid changes and self-development.",
     "years_excellence": "Years of Excellence",
@@ -89,7 +107,7 @@
   "benefits": {
     "title": "Safwat Al Safwa University",
     "topTitle": "Benefits of Studying",
-    "description": "We provide our students with a comprehensive educational experience that opens wide horizons for success and excellence in their professional and personal lives. We strive to provide an integrated educational environment that combines academic quality, scientific research, and student activities.",
+    "description": "We provide our students with an integrated learning environment that combines high-quality education and scientific research",
     "useful_education": "Useful and Productive Education",
     "useful_education_text": "We provide useful and productive education and adequate training for success in professional life in a rapidly evolving world",
     "self_development": "Self-Development and Critical Thinking",

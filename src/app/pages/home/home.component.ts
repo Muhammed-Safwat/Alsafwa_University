@@ -14,11 +14,12 @@ import { DegreesComponent } from "../../shared/components/degrees/degrees.compon
 import { StatsComponent } from "../../shared/components/stats/stats.component";
 import { RecentNewsComponent } from "../../shared/components/recent-news/recent-news.component";
 import { CounterService } from "../../shared/core/services/counter.service";
+import { ApplicationDatesComponent } from "../../shared/components/application-dates/application-dates.component";
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [CommonModule, TranslateModule, HeaderComponent, FooterComponent, BannerComponent, AboutComponent, BenefitsComponent, DegreesComponent , StatsComponent, RecentNewsComponent],
+  imports: [CommonModule, TranslateModule, HeaderComponent, FooterComponent, BannerComponent, AboutComponent, BenefitsComponent, DegreesComponent, StatsComponent, RecentNewsComponent, ApplicationDatesComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
 })

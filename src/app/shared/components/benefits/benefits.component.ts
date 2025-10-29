@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { TranslateModule } from '@ngx-translate/core';
+import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { AutoLanguageLinkDirective } from '../../core/directives/auto-language-link.directive';
 
 @Component({
@@ -12,9 +12,15 @@ import { AutoLanguageLinkDirective } from '../../core/directives/auto-language-l
 })
 export class BenefitsComponent implements OnInit {
 
-  constructor() { }
+  currentLang: any;
 
-  ngOnInit(): void {
+  constructor(private translate: TranslateService) { }
+
+  ngOnInit() {
+    this.currentLang = this.translate.currentLang;
+    this.translate.onLangChange.subscribe(e => {
+      this.currentLang = e.lang;
+    });
   }
 
 }

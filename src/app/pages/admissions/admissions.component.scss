@@ -159,16 +159,6 @@
   padding-bottom: 0.75rem;
 }
 
-.admissions .request-info .card .card-title:after {
-  content: "";
-  position: absolute;
-  inset-inline-start: 0;
-  bottom: 0;
-  width: 50px;
-  height: 3px;
-  background-color: var(--accent-color);
-}
-
 .admissions .request-info .form-control,
 .admissions .request-info .form-select {
   color: var(--default-color);

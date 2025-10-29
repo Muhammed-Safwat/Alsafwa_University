@@ -1,0 +1,23 @@
+.application-dates {
+  padding: 70px 0;
+}
+
+.date-box {
+  background: #ffffff;
+  padding: 22px;
+  border-radius: 12px;
+  text-align: center;
+  border: 1px solid #ddd;
+  transition: .3s;
+}
+
+.date-box:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 4px 18px rgba(0,0,0,.1);
+}
+
+.date-box h4 {
+  font-size: 22px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
