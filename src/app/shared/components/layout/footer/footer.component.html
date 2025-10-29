@@ -13,15 +13,47 @@
           </span>
         </a>
         <div class="footer-contact">
-          <p class="mt-3"><strong>{{ 'university.phone' | translate }}</strong> <span>0016467100836</span></p>
-          <p><strong>{{ 'university.email' | translate }}</strong> <span>{{'saalsa123456@gmail.com'}}</span></p>
+          <p class="mt-3">
+            <strong>{{ 'university.phone' | translate }}</strong>
+            <span>
+              <a href="https://wa.me/0016467100836"
+                 target="_blank"
+                 style="text-decoration: none; color: inherit;">
+                0016467100836
+              </a>
+            </span>
+          </p>
+
+          <p>
+            <strong>{{ 'university.email' | translate }}</strong>
+            <span>
+              <a href="mailto:saalsa123456@gmail.com"
+                 target="_blank"
+                 style="text-decoration: none; color: inherit;">
+                {{' saalsa123456@gmail.com'}}
+              </a>
+            </span>
+          </p>
+
+          <p>
+            <strong>{{ 'contact.facebook' | translate }}</strong>
+            <span>
+              <a href="https://www.facebook.com/صفوت-الصفوة-العالمية"
+                 target="_blank"
+                 style="text-decoration: none; color: inherit;">
+                صفوت الصفوة العالمية
+              </a>
+            </span>
+          </p>
         </div>
+
         <div class="social-links d-flex mt-4">
           <a href="https://www.facebook.com/صفوت-الصفوة-العالمية"
              target="_blank"><i class="bi bi-facebook"></i></a>
           <a href="https://wa.me/0016467100836"
              target="_blank"><i class="bi bi-whatsapp"></i></a>
         </div>
+
 
       </div>
 
@@ -30,18 +62,18 @@
         <ul>
           <li><a appAutoLanguageLink="/">{{ 'footer.home' | translate }}</a></li>
           <li><a appAutoLanguageLink="/about">{{ 'footer.about_university' | translate }}</a></li>
-          <li><a appAutoLanguageLink="/faculties">{{ 'footer.faculties' | translate }}</a></li>
+          <li><a appAutoLanguageLink="/faculty">{{ 'footer.faculties' | translate }}</a></li>
           <li><a appAutoLanguageLink="/institutes">{{ 'footer.institutes' | translate }}</a></li>
-          <li><a appAutoLanguageLink="/research-center">{{ 'footer.research_center' | translate }}</a></li>
-          <li><a appAutoLanguageLink="/admission">{{ 'footer.admission' | translate }}</a></li>
-          <li><a appAutoLanguageLink="/distance-learning">{{ 'footer.distance_learning' | translate }}</a></li>
+          <li><a appAutoLanguageLink="/research">{{ 'footer.research_center' | translate }}</a></li>
+          <li><a appAutoLanguageLink="/admissions">{{ 'footer.admission' | translate }}</a></li>
+          <li><a appAutoLanguageLink="/remote-learning">{{ 'footer.distance_learning' | translate }}</a></li>
           <li><a appAutoLanguageLink="/contact">{{ 'footer.contact_us' | translate }}</a></li>
         </ul>
       </div>
       <div class="col-lg-2 col-md-3 footer-links">
         <h4>{{ 'footer.services' | translate }}</h4>
         <ul>
-          <li><a>{{ 'footer.e_learning' | translate }}</a></li>
+          <li><a appAutoLanguageLink="/remote-learning">{{ 'footer.e_learning' | translate }}</a></li>
           <li><a>{{ 'footer.training_courses' | translate }}</a></li>
           <li><a>{{ 'footer.event_management' | translate }}</a></li>
           <li><a>{{ 'footer.academic_guidance' | translate }}</a></li>

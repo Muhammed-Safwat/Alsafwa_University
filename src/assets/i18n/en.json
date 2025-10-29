@@ -121,6 +121,84 @@
     "continuous_education": "Continuous Education",
     "continuous_education_text": "We provide continuous education for graduates and interested community members to keep pace with rapid changes"
   },
+  "aboutUniversity": {
+    "title": "About the University",
+    "principlesTitle": "Principles",
+    "principles": {
+      "p1": "Instilling and developing good morals.",
+      "p2": "Promoting respect for human rights.",
+      "p3": "Prohibiting all forms of discrimination.",
+      "p4": "Enhancing mutual respect among faculty, students, and employees.",
+      "p5": "Enhancing interpersonal skills.",
+      "p6": "Encouraging teamwork.",
+      "p7": "Self-accountability, evaluation, responsibility, and improvement."
+    },
+    "valuesTitle": "Values",
+    "values": {
+      "v1": "Striving for excellence in education.",
+      "v2": "Promoting transparency and accountability in all transactions.",
+      "v3": "Enhancing scientific research.",
+      "v4": "Supporting the publication of peer-reviewed scientific research.",
+      "v5": "Active participation.",
+      "v6": "Respecting privacy and confidentiality of data.",
+      "v7": "Enhancing creative thinking to provide practical solutions for present and future challenges."
+    },
+    "visionTitle": "Vision",
+    "vision": {
+      "v1": "Providing high-quality education.",
+      "v2": "Continuous curriculum development to keep pace with scientific progress.",
+      "v3": "Providing opportunities for continuing education to graduates and those who wish from the community to keep up with rapid scientific development and labor market needs.",
+      "v4": "Providing an innovative and motivating learning environment.",
+      "v5": "Focusing on interactive, self, and collaborative learning and scientific research to reinforce knowledge.",
+      "v6": "Enhancing distance learning to access academic content at the right time and reduce study costs.",
+      "v7": "Horizontal and vertical integration of academic courses.",
+      "v8": "Studying under the semester system to suit students’ different abilities.",
+      "v9": "Each semester includes:",
+      "v10": "University requirements to ensure career advancement; awarding an associate diploma.",
+      "v11": "College requirements to obtain a bachelor's degree.",
+      "v12": "Conducting practical studies and research to solve current and expected challenges.",
+      "v13": "Graduating highly qualified students with a visionary mindset to be future leaders.",
+      "v14": "Respecting the ideas and beliefs of others.",
+      "v15": "Evaluating practical experience.",
+      "v16": "Contributing to serving the community.",
+      "v17": "Preparing future leaders.",
+      "v18": "Supporting sustainable development.",
+      "v19": "International cooperation and strong partnerships with universities and specialized institutions."
+    },
+    "missionTitle": "Mission",
+    "mission": {
+      "m1": "Instilling and developing good morals.",
+      "m2": "Building and developing self-confidence.",
+      "m3": "Providing high-quality education and practical training to equip students before graduation.",
+      "m4": "Enhancing creativity to find innovative solutions for current and future challenges.",
+      "m5": "Providing distinguished research that contributes to sustainable development.",
+      "m6": "Protecting human rights.",
+      "m7": "Enhancing knowledge exchange with universities and specialized institutions."
+    },
+    "goalsTitle": "Goals",
+    "goals": {
+      "g1": "Qualifying students to become specialists in their fields.",
+      "g2": "Supporting scientific research and innovation in various disciplines.",
+      "g3": "Enhancing knowledge and understanding in scientific fields.",
+      "g4": "Contributing to community development."
+    },
+    "benefitsTitle": "Benefits of Studying at the University",
+    "benefits": {
+      "b1": "Provides effective education and adequate training to succeed in a rapidly evolving world.",
+      "b2": "Develops critical and creative thinking to solve problems.",
+      "b3": "Recognized international degree.",
+      "b4": "Better access to job opportunities in local and international markets.",
+      "b5": "Effective contribution to community development."
+    },
+    "degreesTitle": "Degrees Awarded by the University",
+    "degrees": {
+      "d1": "Associate University Diploma",
+      "d2": "Bachelor’s Degree",
+      "d3": "Higher Diploma",
+      "d4": "Master’s Degree",
+      "d5": "Doctorate Degree"
+    }
+  },
   "contact": {
     "university_address": "University Address",
     "university_location": "Riyadh, Saudi Arabia",
@@ -130,6 +208,7 @@
     "working_hours": "Working Hours",
     "work_days": "Sunday - Thursday: 8:00 AM - 4:00 PM",
     "weekend": "Friday - Saturday: Closed",
+    "facebook": "Facebook",
     "contact_us": "Contact Us",
     "contact_us_description": "We are here to help you with any inquiry or request",
     "first_name": "First Name",

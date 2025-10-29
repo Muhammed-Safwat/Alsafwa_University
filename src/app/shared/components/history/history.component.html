@@ -1,7 +1,86 @@
 <!-- History Section -->
-<section id="history" class="history section">
-  <div class="container" data-aos="fade-up" data-aos-delay="100">
-    <div class="row align-items-start g-5">
+<section id="history"
+         class="history section">
+  <div class="container"
+       data-aos="fade-up"
+       data-aos-delay="100">
+    <section class="about-university-section"
+             data-aos="fade-up">
+      <div class="container">
+        <h2>{{ 'aboutUniversity.title' | translate }}</h2>
+
+        <div class="content-block">
+          <h3>{{ 'aboutUniversity.principlesTitle' | translate }}</h3>
+          <ul>
+            <li>{{ 'aboutUniversity.principles.p1' | translate }}</li>
+            <li>{{ 'aboutUniversity.principles.p2' | translate }}</li>
+            <li>{{ 'aboutUniversity.principles.p3' | translate }}</li>
+            <li>{{ 'aboutUniversity.principles.p4' | translate }}</li>
+            <li>{{ 'aboutUniversity.principles.p5' | translate }}</li>
+            <li>{{ 'aboutUniversity.principles.p6' | translate }}</li>
+            <li>{{ 'aboutUniversity.principles.p7' | translate }}</li>
+          </ul>
+        </div>
+
+        <div class="content-block">
+          <h3>{{ 'aboutUniversity.valuesTitle' | translate }}</h3>
+          <ul>
+            <li>{{ 'aboutUniversity.values.v1' | translate }}</li>
+            <li>{{ 'aboutUniversity.values.v2' | translate }}</li>
+            <li>{{ 'aboutUniversity.values.v3' | translate }}</li>
+            <li>{{ 'aboutUniversity.values.v4' | translate }}</li>
+            <li>{{ 'aboutUniversity.values.v5' | translate }}</li>
+            <li>{{ 'aboutUniversity.values.v6' | translate }}</li>
+            <li>{{ 'aboutUniversity.values.v7' | translate }}</li>
+          </ul>
+        </div>
+
+        <div class="content-block">
+          <h3>{{ 'aboutUniversity.visionTitle' | translate }}</h3>
+          <ul>
+            <li>{{ 'aboutUniversity.vision.v1' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v2' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v3' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v4' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v5' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v6' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v7' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v8' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v9' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v10' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v11' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v12' | translate }}</li>
+            <li>{{ 'aboutUniversity.vision.v13' | translate }}</li>
+          </ul>
+        </div>
+
+        <div class="content-block">
+          <h3>{{ 'aboutUniversity.missionTitle' | translate }}</h3>
+          <ul>
+            <li>{{ 'aboutUniversity.mission.m1' | translate }}</li>
+            <li>{{ 'aboutUniversity.mission.m2' | translate }}</li>
+            <li>{{ 'aboutUniversity.mission.m3' | translate }}</li>
+            <li>{{ 'aboutUniversity.mission.m4' | translate }}</li>
+            <li>{{ 'aboutUniversity.mission.m5' | translate }}</li>
+            <li>{{ 'aboutUniversity.mission.m6' | translate }}</li>
+            <li>{{ 'aboutUniversity.mission.m7' | translate }}</li>
+          </ul>
+        </div>
+
+        <div class="content-block">
+          <h3>{{ 'aboutUniversity.goalsTitle' | translate }}</h3>
+          <ul>
+            <li>{{ 'aboutUniversity.goals.g1' | translate }}</li>
+            <li>{{ 'aboutUniversity.goals.g2' | translate }}</li>
+            <li>{{ 'aboutUniversity.goals.g3' | translate }}</li>
+            <li>{{ 'aboutUniversity.goals.g4' | translate }}</li>
+          </ul>
+        </div>
+
+      </div>
+    </section>
+
+    <!--<div class="row align-items-start g-5">
       <div class="col-lg-6">
         <div class="about-content" data-aos="fade-up" data-aos-delay="200">
           <h3>{{ 'history.about_university' | translate }}</h3>
@@ -16,12 +95,12 @@
               <h3>{{ 'history.mission' | translate }}</h3>
               <p>{{ 'history.mission_text' | translate }}</p>
             </div>
-          
+
             <div class="vision">
               <h3>{{ 'history.vision' | translate }}</h3>
               <p>{{ 'history.vision_text' | translate }}</p>
             </div>
-          
+
             <div class="goals">
               <h3>{{ 'history.goals' | translate }}</h3>
               <p>{{ 'history.goals_text' | translate }}</p>
@@ -33,9 +112,9 @@
       <div class="col-lg-6">
          <div class="about-image" data-aos="zoom-in" data-aos-delay="300">
            <img src="/assets/img/education/hero-bg.svg" [alt]="'history.campus_alt' | translate" class="img-fluid rounded">
-           
+
            <div class="university-highlights" data-aos="fade-up" data-aos-delay="400">
-             
+
              <div class="highlights-grid">
                <div class="highlight-item">
                  <i class="bi bi-award"></i>
@@ -59,7 +138,7 @@
       </div>
     </div>
 
-    <div class="row mt-5">
+  <!-- <div class="row mt-5">
       <div class="col-lg-12">
         <div class="core-values" data-aos="fade-up" data-aos-delay="500">
           <h3 class="text-center mb-4">{{ 'history.core_values' | translate }}</h3>
@@ -72,7 +151,7 @@
                 <h4>{{ 'history.academic_excellence' | translate }}</h4>
                 <p>{{ 'history.academic_excellence_text' | translate }}</p>
               </div>
-            </div> 
+            </div>
             <div class="col">
               <div class="value-card">
                 <div class="value-icon">
@@ -81,7 +160,7 @@
                 <h4>{{ 'history.community_participation' | translate }}</h4>
                 <p>{{ 'history.community_participation_text' | translate }}</p>
               </div>
-            </div> 
+            </div>
             <div class="col">
               <div class="value-card">
                 <div class="value-icon">
@@ -90,7 +169,7 @@
                 <h4>{{ 'history.innovation' | translate }}</h4>
                 <p>{{ 'history.innovation_text' | translate }}</p>
               </div>
-            </div> 
+            </div>
             <div class="col">
               <div class="value-card">
                 <div class="value-icon">
@@ -103,7 +182,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div>-->
   </div>
 </section>
 <!-- /History Section -->
