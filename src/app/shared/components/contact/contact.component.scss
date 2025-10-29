@@ -86,17 +86,6 @@
   position: relative;
 }
 
-.contact .contact-form-wrapper h2:after {
-  content: "";
-  position: absolute;
-  inset-inline-start: 50%;
-  bottom: -10px;
-  transform: translateX(-50%);
-  width: 50px;
-  height: 3px;
-  background-color: var(--accent-color);
-}
-
 .contact .contact-form-wrapper .form-group {
   margin-bottom: 20px;
 }

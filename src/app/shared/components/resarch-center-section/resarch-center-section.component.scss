@@ -225,18 +225,7 @@
   text-align: center;
 }
 
-.department-info h3::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  inset-inline-start: 50%;
-  transform: translateX(-50%);
-  width: 80px;
-  height: 4px;
-  background: var(--accent-color);
-  border-radius: 2px;
-}
-
+ 
 .department-info .lead {
   color: var(--default-color);
   font-size: 1.1rem;

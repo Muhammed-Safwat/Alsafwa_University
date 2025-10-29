@@ -1,6 +1,6 @@
 import { Component, Input, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { TranslateModule } from '@ngx-translate/core';
+import { TranslateModule, TranslateService } from '@ngx-translate/core';
 import { RouterModule } from '@angular/router';
 
 @Component({
@@ -12,7 +12,14 @@ import { RouterModule } from '@angular/router';
 })
 export class AboutComponent implements OnInit {
   @Input() showMission: boolean = true;
-  ngOnInit() {
+  currentLang: any;
 
+  constructor(private translate: TranslateService) { }
+
+  ngOnInit() {
+    this.currentLang = this.translate.currentLang;
+    this.translate.onLangChange.subscribe(e => {
+      this.currentLang = e.lang;
+    });
   }
 }
