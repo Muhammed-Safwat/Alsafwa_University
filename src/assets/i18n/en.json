@@ -1,12 +1,12 @@
 {
   "header": {
     "home": "Home",
-    "about": "About University",
+    "about": "About the University",
     "admissions": "Admissions",
     "faculty": "Faculties",
     "institutes": "Institutes",
     "research": "Research Center",
-    "remote_learning": "Remote Learning",
+    "remote_learning": "Online Learning",
     "contact": "Contact Us",
     "platform": "Platform",
     "login": "Login"
@@ -14,30 +14,30 @@
   "footer": {
     "important_links": "Important Links",
     "home": "Home",
-    "about_university": "About University",
-    "admission": "Admission",
+    "about_university": "About the University",
+    "admission": "Admissions",
     "faculties": "Faculties",
     "institutes": "Institutes",
-    "research_center": "Research Center",
-    "distance_learning": "Distance Learning",
+    "research_center": "Research and Studies Center",
+    "distance_learning": "Online Learning",
     "services": "Our Services",
     "resources": "Resources",
     "quick_links": "Quick Links",
-    "about_us": "About Us",
-    "our_services": "Our Services",
-    "terms_conditions": "Terms & Conditions",
+    "about_us": "About the University",
+    "our_services": "Faculties",
+    "terms_conditions": "Terms and Conditions",
     "privacy_policy": "Privacy Policy",
     "e_learning": "E-Learning",
     "training_courses": "Training Courses",
     "event_management": "Event Management",
     "academic_guidance": "Academic Guidance",
-    "design_creativity": "Design & Creativity",
+    "design_creativity": "Design and Creativity",
     "digital_library": "Digital Library",
     "scientific_journals": "Scientific Journals",
     "student_activities": "Student Activities",
-    "labs_workshops": "Labs & Workshops",
+    "labs_workshops": "Labs and Workshops",
     "support_center": "Support Center",
-    "academic_calendar": "Academic Calendar",
+    "academic_calendar": "Application Dates",
     "e_services": "E-Services",
     "student_portal": "Student Portal",
     "faculty_members": "Faculty Members",
@@ -45,37 +45,27 @@
     "copyright": "All Rights Reserved"
   },
   "university": {
-    "name": "Safwat Al Safwa International University",
+    "name": "Safwat Al-Safwa International",
     "address": "King Fahd Street",
-    "location": "Riyadh, Saudi Arabia",
-    "phone": "Phone:",
+    "location": "Riyadh, Kingdom of Saudi Arabia",
+    "phone": "WhatsApp:",
     "email": "Email:"
   },
-  "application": {
-    "title": "Application Dates",
-    "description": "Admission is available in three academic terms each year",
-    "february": "February",
-    "feb_date": "Start of the second academic term",
-    "june": "June",
-    "june_date": "Start of the summer term",
-    "october": "October",
-    "oct_date": "Start of the first academic term"
-  },
   "language": {
-    "arabic": "العربية",
+    "arabic": "Arabic",
     "english": "English"
   },
   "banner": {
     "title": "Towards a Bright Future with Knowledge and Learning",
-    "description": "Safwat Al Safwa University is committed to providing high-quality education to graduate distinguished students who compete with students from the finest universities. We focus on interactive, self-directed, and collaborative learning, scientific research, and training to establish knowledge.",
+    "description": "Safwat Al-Safwa University is committed to providing high-quality education to graduate outstanding students who can compete with those from top universities. We focus on interactive learning, self-learning, collaborative education, scientific research, and training to strengthen knowledge.",
     "start_journey": "Start Your Educational Journey",
     "explore_programs": "Explore Our Programs",
     "why_choose_us": "Why Choose Us",
     "research_funding": "Funded Research Projects",
-    "academic_programs": "Academic Programs",
+    "academic_programs": "Academic Program",
     "open_day": "Student Open Day",
     "application_workshop": "Application Workshop",
-    "international_students_meeting": "International Students Orientation",
+    "international_students_meeting": "Orientation for International Students",
     "register_now": "Register Now",
     "stats": {
       "research_funding_count": "250+",
@@ -88,168 +78,90 @@
     }
   },
   "about": {
-    "top-title": "About University",
-    "title": "Safwat Al Safwa University, <span>Excellence in Education and Knowledge</span>",
-    "description": "Safwat Al Safwa University is committed to providing high-quality education to graduate distinguished students who compete with students from the finest universities. We focus on interactive, self-directed, and collaborative learning, scientific research, and training to establish knowledge. We provide continuous education for graduates and community members to keep pace with rapid changes and self-development.",
+    "top-title": "About the University",
+    "title": "Safwat Al-Safwa University<br> <span>Leadership in Education and Knowledge</span>",
+    "description": "The university is committed to providing high-quality education to graduate outstanding students who can compete with those from top universities. We focus on interactive, self-directed, and collaborative learning, as well as scientific research and training to strengthen knowledge. We offer continuing education for graduates and community members to keep pace with rapid changes and promote self-development.",
     "years_excellence": "Years of Excellence",
     "students": "Students",
     "faculty_members": "Faculty Members",
-    "director_name": "Prof. Dr. Ahmed Al-Aqeeli",
+    "director_name": "Professor Dr. Ahmed Al-Oqeili",
     "director_title": "University Director",
     "campus_alt": "University Campus",
     "mission": "Our Mission",
-    "mission_text": "To cultivate and develop good character and self-confidence, and provide high-quality education with practical application to graduate distinguished students. To promote creativity, protect human rights, and exchange knowledge with specialized universities and institutions.",
+    "mission_text": "To instill good morals and self-confidence, and to provide high-quality education with practical application to graduate distinguished students. To promote creativity, protect human rights, and exchange knowledge with universities and specialized institutions.",
     "vision": "Our Vision",
-    "vision_text": "To provide high-quality education with continuous updating of curricula. To provide an inspiring and innovative educational environment with a focus on interactive, self-directed, and collaborative learning. To enhance distance learning and academic integration to prepare future leaders.",
+    "vision_text": "To provide high-quality education with continuous curriculum updates. To offer a stimulating and innovative learning environment focusing on interactive, self-directed, and collaborative learning. To enhance distance education and academic integration to prepare future leaders.",
     "values": "Our Values",
-    "values_text": "Striving for excellence in education, promoting transparency and accountability, and supporting scientific research. Active participation, respecting data privacy, and promoting creative thinking to solve challenges."
+    "values_text": "To strive for excellence in education, promote transparency and accountability, and support scientific research. To encourage active participation, respect data privacy, and foster creative thinking to solve challenges."
   },
   "benefits": {
-    "title": "Safwat Al Safwa University",
-    "topTitle": "Benefits of Studying",
-    "description": "We provide our students with an integrated learning environment that combines high-quality education and scientific research",
-    "useful_education": "Useful and Productive Education",
-    "useful_education_text": "We provide useful and productive education and adequate training for success in professional life in a rapidly evolving world",
+    "topTitle": "Benefits of Studying at the University",
+    "title": "At Safwat Al-Safwa University",
+    "description": "We provide our students with an integrated educational environment that combines high-quality learning and scientific research.",
+    "useful_education": "Beneficial and Productive Education",
+    "useful_education_text": "We offer meaningful and practical education, along with sufficient training to succeed in a fast-evolving world.",
     "self_development": "Self-Development and Critical Thinking",
-    "self_development_text": "Self-development through learning critical and creative thinking to solve problems",
+    "self_development_text": "Developing oneself through learning critical and creative thinking to solve problems.",
     "international_certificate": "Internationally Recognized Certificate",
-    "international_certificate_text": "Obtaining an internationally recognized certificate that opens wide horizons for work and study",
-    "job_opportunities": "Distinguished Job Opportunities",
-    "job_opportunities_text": "Easy access to job opportunities in the private and public sectors in local and global markets",
-    "community_contribution": "Contributing to Community Development",
-    "community_contribution_text": "Effective contribution to community development through qualified graduates",
-    "continuous_education": "Continuous Education",
-    "continuous_education_text": "We provide continuous education for graduates and interested community members to keep pace with rapid changes"
-  },
-  "aboutUniversity": {
-    "title": "About the University",
-    "principlesTitle": "Principles",
-    "principles": {
-      "p1": "Instilling and developing good morals.",
-      "p2": "Promoting respect for human rights.",
-      "p3": "Prohibiting all forms of discrimination.",
-      "p4": "Enhancing mutual respect among faculty, students, and employees.",
-      "p5": "Enhancing interpersonal skills.",
-      "p6": "Encouraging teamwork.",
-      "p7": "Self-accountability, evaluation, responsibility, and improvement."
-    },
-    "valuesTitle": "Values",
-    "values": {
-      "v1": "Striving for excellence in education.",
-      "v2": "Promoting transparency and accountability in all transactions.",
-      "v3": "Enhancing scientific research.",
-      "v4": "Supporting the publication of peer-reviewed scientific research.",
-      "v5": "Active participation.",
-      "v6": "Respecting privacy and confidentiality of data.",
-      "v7": "Enhancing creative thinking to provide practical solutions for present and future challenges."
-    },
-    "visionTitle": "Vision",
-    "vision": {
-      "v1": "Providing high-quality education.",
-      "v2": "Continuous curriculum development to keep pace with scientific progress.",
-      "v3": "Providing opportunities for continuing education to graduates and those who wish from the community to keep up with rapid scientific development and labor market needs.",
-      "v4": "Providing an innovative and motivating learning environment.",
-      "v5": "Focusing on interactive, self, and collaborative learning and scientific research to reinforce knowledge.",
-      "v6": "Enhancing distance learning to access academic content at the right time and reduce study costs.",
-      "v7": "Horizontal and vertical integration of academic courses.",
-      "v8": "Studying under the semester system to suit students’ different abilities.",
-      "v9": "Each semester includes:",
-      "v10": "University requirements to ensure career advancement; awarding an associate diploma.",
-      "v11": "College requirements to obtain a bachelor's degree.",
-      "v12": "Conducting practical studies and research to solve current and expected challenges.",
-      "v13": "Graduating highly qualified students with a visionary mindset to be future leaders.",
-      "v14": "Respecting the ideas and beliefs of others.",
-      "v15": "Evaluating practical experience.",
-      "v16": "Contributing to serving the community.",
-      "v17": "Preparing future leaders.",
-      "v18": "Supporting sustainable development.",
-      "v19": "International cooperation and strong partnerships with universities and specialized institutions."
-    },
-    "missionTitle": "Mission",
-    "mission": {
-      "m1": "Instilling and developing good morals.",
-      "m2": "Building and developing self-confidence.",
-      "m3": "Providing high-quality education and practical training to equip students before graduation.",
-      "m4": "Enhancing creativity to find innovative solutions for current and future challenges.",
-      "m5": "Providing distinguished research that contributes to sustainable development.",
-      "m6": "Protecting human rights.",
-      "m7": "Enhancing knowledge exchange with universities and specialized institutions."
-    },
-    "goalsTitle": "Goals",
-    "goals": {
-      "g1": "Qualifying students to become specialists in their fields.",
-      "g2": "Supporting scientific research and innovation in various disciplines.",
-      "g3": "Enhancing knowledge and understanding in scientific fields.",
-      "g4": "Contributing to community development."
-    },
-    "benefitsTitle": "Benefits of Studying at the University",
-    "benefits": {
-      "b1": "Provides effective education and adequate training to succeed in a rapidly evolving world.",
-      "b2": "Develops critical and creative thinking to solve problems.",
-      "b3": "Recognized international degree.",
-      "b4": "Better access to job opportunities in local and international markets.",
-      "b5": "Effective contribution to community development."
-    },
-    "degreesTitle": "Degrees Awarded by the University",
-    "degrees": {
-      "d1": "Associate University Diploma",
-      "d2": "Bachelor’s Degree",
-      "d3": "Higher Diploma",
-      "d4": "Master’s Degree",
-      "d5": "Doctorate Degree"
-    }
+    "international_certificate_text": "Obtaining a globally recognized certificate that opens wide horizons for work and study opportunities.",
+    "job_opportunities": "Excellent Job Opportunities",
+    "job_opportunities_text": "Easier access to job opportunities in both the private and public sectors locally and internationally.",
+    "community_contribution": "Community Contribution",
+    "community_contribution_text": "Actively contributing to community development through qualified graduates.",
+    "continuous_education": "Continuing Education",
+    "continuous_education_text": "We provide continuing education for graduates and individuals in the community to keep pace with rapid changes."
   },
   "contact": {
     "university_address": "University Address",
-    "university_location": "Riyadh, Saudi Arabia",
-    "university_name": "Safwat Al Safwa International University",
+    "university_location": "Riyadh, Kingdom of Saudi Arabia",
+    "university_name": "Safwat Al-Safwa International University",
     "email": "Email",
     "social_media": "Social Media",
     "working_hours": "Working Hours",
-    "work_days": "Sunday - Thursday: 8:00 AM - 4:00 PM",
+    "work_days": "Saturday - Thursday: 8:00 AM - 4:00 PM",
     "weekend": "Friday - Saturday: Closed",
-    "facebook": "Facebook",
     "contact_us": "Contact Us",
-    "contact_us_description": "We are here to help you with any inquiry or request",
+    "facebook": "Facebook",
+    "contact_us_description": "We are here to help you with any inquiry or request.",
     "first_name": "First Name",
-    "email_placeholder": "Email Address",
+    "email_placeholder": "Email",
     "subject": "Subject",
     "message_placeholder": "Write your message here...",
     "send_message": "Send Message"
   },
   "degrees": {
     "title": "Degrees Awarded by the University",
-    "description": "The University Council awards the following degrees based on the recommendation of the College or Institute Council:",
+    "description": "The University Council, based on the recommendation of the College or Institute Council, grants the following degrees:",
     "diploma": "Diploma Degree",
-    "diploma_subtitle": "Associate Diploma",
-    "diploma_description": "An academic degree that qualifies the student to work in the chosen professional field",
-    "bachelor": "Bachelor's Degree",
-    "bachelor_subtitle": "Bachelor's",
-    "bachelor_description": "Bachelor's degree in various academic specializations",
+    "diploma_subtitle": "Intermediate University Diploma",
+    "diploma_description": "An academic degree that qualifies students to work in their chosen professional field.",
+    "bachelor": "Higher Degree",
+    "bachelor_subtitle": "Bachelor’s Degree",
+    "bachelor_description": "Bachelor’s degree in various academic disciplines.",
     "specialization": "Specialization Degree",
     "specialization_subtitle": "Higher Diploma",
-    "specialization_description": "A specialized degree in a specific field after bachelor's",
-    "high_specialization": "High Specialization Degree",
-    "high_specialization_subtitle": "Master's",
-    "high_specialization_description": "Master's degree in various specializations with research opportunities",
+    "specialization_description": "A specialized degree in a specific field after earning a bachelor’s degree.",
+    "high_specialization": "Advanced Specialization Degree",
+    "high_specialization_subtitle": "Master’s Degree",
+    "high_specialization_description": "Master’s degree in various disciplines with opportunities for scientific research.",
     "global_specialization": "Global Specialization Degree",
-    "global_specialization_subtitle": "PhD",
-    "global_specialization_description": "The highest academic degree in specialization with advanced scientific research"
+    "global_specialization_subtitle": "Doctorate (Ph.D.)",
+    "global_specialization_description": "The highest academic degree in a field, involving advanced scientific research."
   },
   "example_card": {
-    "university_name_ar": "جامعة صفوت الصفوة الدولية",
+    "university_name_ar": "Safwat Al-Safwa International University",
     "university_name_en": "Safwat Al-Safwa International University",
-    "welcome_text": "Welcome to Safwat Al-Safwa International University, where we strive to provide distinguished education that meets the needs of students in the 21st century.",
-    "learn_more": "Learn About Us",
+    "welcome_text": "Welcome to Safwat Al-Safwa International University, where we strive to provide distinguished education that meets the needs of 21st-century students.",
+    "learn_more": "Learn More",
     "contact_us": "Contact Us",
     "last_update": "Last Updated: December 2024"
   },
   "featured_programs": {
     "title": "Featured Programs",
-    "description": "Safwa University offers a range of distinguished academic programs that combine quality, knowledge, and practical skills to prepare future leaders.",
+    "description": "Safwat Al-Safwa University offers a selection of distinguished academic programs that combine quality, knowledge, and practical skills to prepare future leaders.",
     "all_programs": "All Programs",
-    "bachelor": "Bachelor's",
-    "master": "Master's",
+    "bachelor": "Bachelor’s",
+    "master": "Master’s",
     "certificates": "Professional Certificates",
     "computer_science": "Computer Science",
     "computer_science_alt": "Computer Science",
@@ -263,78 +175,78 @@
     "mechanical_engineering_alt": "Mechanical Engineering",
     "data_analysis": "Data Analysis",
     "data_analysis_alt": "Data Analysis",
-    "years": "years",
-    "hours": "hours",
-    "semesters": "semesters",
-    "spring_only": "spring only",
-    "year_round": "year-round",
-    "months": "months",
-    "computer_science_desc": "A program focused on programming, artificial intelligence, and information security to prepare graduates capable of leading digital transformation projects.",
-    "business_management_desc": "A program that integrates modern theories with practical application to prepare leaders and entrepreneurs capable of competing in the job market.",
-    "medical_sciences_desc": "An integrated program in basic and clinical medical sciences aimed at preparing a distinguished generation in healthcare fields.",
-    "environmental_studies_desc": "A program focused on sustainability and finding innovative solutions to global and local environmental challenges.",
+    "years": "Years",
+    "hours": "Hours",
+    "semesters": "Two Semesters",
+    "spring_only": "Spring Only",
+    "year_round": "Year-Round",
+    "months": "Months",
+    "computer_science_desc": "A program focused on programming, artificial intelligence, and cybersecurity, preparing graduates to lead digital transformation projects.",
+    "business_management_desc": "A program that integrates modern theories with practical applications to prepare leaders and entrepreneurs ready to compete in the job market.",
+    "medical_sciences_desc": "A comprehensive program in basic and clinical medical sciences aimed at preparing a distinguished generation in healthcare fields.",
+    "environmental_studies_desc": "A program focused on sustainability and developing innovative solutions for global and local environmental challenges.",
     "mechanical_engineering_desc": "A program that develops research and design skills in energy, manufacturing, and advanced mechanical technologies.",
-    "data_analysis_desc": "A practical training program focused on data analysis tools, statistics, and artificial intelligence to prepare qualified personnel for the job market.",
+    "data_analysis_desc": "A hands-on training program focusing on data analysis tools, statistics, and artificial intelligence to prepare professionals for the job market.",
     "learn_more": "Learn More"
   },
   "history": {
     "about_university": "About the University",
-    "title": "Vision, Mission & Goals",
-    "description": "Safwat Al Safwa University is committed to providing high-quality education to graduate distinguished students who compete with students from the finest universities. We focus on interactive, self-directed, and collaborative learning, scientific research, and training to establish knowledge. We provide continuous education for graduates and interested community members to keep pace with rapid changes for self-development and efficiency enhancement.",
-    "founding_2015": "Establishment of Safwat Al Safwa University as one of the leading universities in Saudi Arabia",
-    "opening_2018": "Opening the first specialized colleges and starting bachelor's programs in various specializations",
-    "graduate_2020": "Launching graduate programs, master's, and PhD in various specializations",
-    "expansion_2023": "University expansion and opening new branches and advanced educational programs",
+    "title": "Vision, Mission, and Goals",
+    "description": "Safwat Al-Safwa University is committed to providing high-quality education to graduate outstanding students who can compete with those from leading universities. We focus on interactive, self-directed, and collaborative learning, as well as scientific research and training to strengthen knowledge. We offer continuing education for graduates and community members to keep pace with rapid changes, develop self-growth, and enhance competence.",
+    "founding_2015": "Safwat Al-Safwa University was established as one of the leading universities in the Kingdom of Saudi Arabia.",
+    "opening_2018": "Opening of the first specialized colleges and launching undergraduate programs in various disciplines.",
+    "graduate_2020": "Launch of postgraduate, master’s, and doctoral programs in multiple fields.",
+    "expansion_2023": "University expansion with new branches and advanced educational programs.",
     "campus_alt": "University Campus",
     "mission": "Mission",
-    "mission_text": "To cultivate and develop good character and self-confidence, and provide high-quality education with practical application to equip students with scientific and practical tools before graduation to produce distinguished students. To promote creativity in finding innovative solutions to current and expected challenges, provide distinguished research that contributes to sustainable development, protect human rights, and enhance knowledge exchange with specialized universities and institutions.",
+    "mission_text": "To instill good morals and self-confidence, and to provide high-quality education with practical application, equipping students with scientific and practical tools before graduation. To foster creativity in developing innovative solutions to current and future challenges, conduct outstanding research contributing to sustainable development, protect human rights, and promote knowledge exchange with universities and specialized institutions.",
     "vision": "Vision",
-    "vision_text": "To provide high-quality education, continuous updating of curricula to match scientific progress, provide continuous education opportunities for graduates and interested community members to keep pace with rapid scientific development and rehabilitation to meet current and future labor market needs, provide an inspiring and innovative educational environment, focus on interactive, self-directed, and collaborative learning methods and scientific research to establish knowledge, enhance distance learning to obtain scientific material at the appropriate time and reduce study costs, horizontal and vertical integration of curricula, study by semester system to accommodate different capabilities and abilities of each student, conduct research and practical studies to solve current and expected challenges, graduate highly qualified students with insightful vision in various university specializations to be future leaders, respect others' ideas and beliefs, evaluate practical experiences, contribute to community service, prepare future leaders, support sustainable development, and cooperate with specialized universities and institutions internationally.",
+    "vision_text": "To provide high-quality education with continuous curriculum updates to meet scientific progress. To offer continuing education opportunities for graduates and community members to keep up with rapid scientific developments and workforce demands. To create an inspiring and innovative learning environment focused on interactive, self-directed, and collaborative education, promoting Online Learning for flexible access and reduced costs. To ensure horizontal and vertical integration of curricula, adopt a semester system suited to students’ abilities, and conduct applied research to solve present and future challenges. To graduate highly qualified students with clear vision and leadership potential across all university disciplines, while fostering respect, valuing experience, serving the community, preparing future leaders, supporting sustainable development, and strengthening international collaboration.",
     "goals": "Goals",
-    "goals_text": "To qualify students to become specialists in their field, support scientific research and innovation in various fields, enhance knowledge and understanding in various scientific fields, and contribute to community development.",
+    "goals_text": "To qualify students as specialists in their fields, support scientific research and innovation, enhance knowledge and understanding across disciplines, and contribute to community development.",
     "university_highlights": "University Highlights",
-    "accreditation": "Accredited Academic Programs",
+    "accreditation": "Recognized Academic Accreditation",
     "diverse_students": "Students from Various Nationalities",
     "modern_curriculum": "Modern Curriculum",
     "international_partnerships": "Strong International Partnerships",
     "core_values": "Core Values",
     "academic_excellence": "Academic Excellence",
-    "academic_excellence_text": "Striving to achieve excellence in education and promote scientific research",
+    "academic_excellence_text": "Striving for excellence in education and promoting scientific research.",
     "community_participation": "Community Participation",
-    "community_participation_text": "Effective contribution to community development and preparing future leaders",
+    "community_participation_text": "Actively contributing to community development and preparing future leaders.",
     "innovation": "Innovation",
-    "innovation_text": "Promoting creative thinking to find practical solutions to challenges",
+    "innovation_text": "Encouraging creative thinking to develop practical solutions to challenges.",
     "global_vision": "Global Vision",
-    "global_vision_text": "Cooperation with specialized universities and institutions internationally"
+    "global_vision_text": "Collaborating with international universities and specialized institutions."
   },
   "institutes": {
     "title": "Institutes",
-    "description": "We provide specialized educational and training programs that combine science and practical training to acquire practical skills",
+    "description": "We offer specialized educational and training programs that combine academic knowledge and practical training to develop hands-on skills.",
     "institutes_title": "Institutes",
     "arabic_language_institute": "Arabic Language Institute",
-    "arabic_language_description": "Dedicated to teaching Arabic to non-native speakers through a comprehensive curriculum and modern teaching methods to develop reading, writing, speaking, and listening skills",
+    "arabic_language_description": "Dedicated to teaching Arabic to non-native speakers through a comprehensive curriculum and modern teaching methods that develop reading, writing, speaking, and listening skills.",
     "applied_sciences_institute": "Applied Sciences Institute",
-    "applied_sciences_description": "Provides specialized educational and training programs that combine science and practical training to help students acquire practical skills and rehabilitate the unemployed according to market requirements",
+    "applied_sciences_description": "Provides specialized educational and training programs that combine academic knowledge with practical training to help students acquire practical skills and retrain job seekers according to market needs.",
     "institute_goals": "Institute Goals:",
     "available_programs": "Available Programs:",
     "arabic_goals": [
-      "Develop reading, writing, speaking, and listening skills",
-      "Develop students' language skills",
-      "Introduce students to Arabic and Islamic culture and traditions",
-      "Use modern and advanced teaching methods"
+      "Develop reading, writing, speaking, and listening skills.",
+      "Enhance students’ language proficiency.",
+      "Introduce students to Arab and Islamic culture and traditions.",
+      "Use modern and advanced teaching methods."
     ],
     "applied_sciences_goals": [
-      "Provide specialized educational and training programs",
-      "Combine science and practical training",
-      "Help students acquire required practical skills",
-      "Rehabilitate the unemployed",
-      "Meet labor market requirements"
+      "Provide specialized educational and training programs.",
+      "Combine theoretical knowledge with practical training.",
+      "Equip students with essential practical skills.",
+      "Retrain unemployed individuals for new opportunities.",
+      "Meet labor market requirements."
     ],
     "arabic_programs": [
       "Basic Arabic Language Program",
       "Advanced Conversation Program",
       "Academic Writing Program",
-      "Quran Understanding Program",
+      "Qur’an Understanding Program",
       "Arabic Culture Program",
       "Spelling and Grammar Program"
     ],
@@ -351,116 +263,116 @@
       "3D Design Program",
       "Welding and Blacksmithing Program",
       "Electrical and Electronics Program",
-      "Mechanics Program"
+      "Mechanical Program"
     ]
   },
   "mission_goals": {
-    "title": "Mission & Goals",
-    "description": "We are committed to a clear mission and specific goals to achieve excellence in education and scientific research",
+    "title": "Mission and Goals",
+    "description": "We are committed to a clear mission and defined objectives to achieve excellence in education and scientific research.",
     "mission": "Mission",
     "goals": "Goals",
     "mission_items": [
-      "Cultivate and develop good character",
-      "Cultivate and develop self-confidence",
-      "Provide high-quality education and practical application to equip students with scientific and practical tools",
-      "Promote creativity to find innovative solutions to current and expected challenges",
-      "Provide distinguished research that contributes to sustainable development",
-      "Protect human rights",
-      "Promote knowledge exchange with specialized universities and institutions"
+      "Instill and develop good morals.",
+      "Build and strengthen self-confidence.",
+      "Provide high-quality education with practical application to equip students with scientific and practical tools.",
+      "Promote creativity to develop innovative solutions for current and future challenges.",
+      "Conduct outstanding research that contributes to sustainable development.",
+      "Protect human rights.",
+      "Promote knowledge exchange with universities and specialized institutions."
     ],
     "goals_items": [
-      "Qualify students to become specialists in their fields",
-      "Support scientific research and innovation in various fields",
-      "Promote knowledge and understanding in various scientific fields",
-      "Contribute to community development",
-      "Prepare future leaders",
-      "Support sustainable development",
-      "Cooperate with specialized universities and institutions"
+      "Qualify students to become specialists in their fields.",
+      "Support scientific research and innovation in various disciplines.",
+      "Enhance knowledge and understanding across academic fields.",
+      "Contribute to community development.",
+      "Prepare future leaders.",
+      "Support sustainable development.",
+      "Collaborate with universities and specialized institutions."
     ]
   },
   "principles": {
-    "title": "Principles & Values",
-    "description": "We are committed to a set of principles and values that govern our work and guide our vision towards excellence",
+    "title": "Principles and Values",
+    "description": "We are committed to a set of principles and values that guide our work and direct our vision toward excellence.",
     "principles": "Principles",
     "values": "Values",
     "principles_items": [
-      "Cultivate and develop good character",
-      "Promote respect for human rights",
-      "Prohibit all forms of discrimination",
-      "Promote mutual respect between faculty, students, and staff",
-      "Enhance interpersonal skills",
-      "Encourage teamwork",
-      "Self-accountability, evaluation, responsibility, and assessment"
+      "Instilling and nurturing good morals.",
+      "Promoting respect for human rights.",
+      "Prohibiting all forms of discrimination.",
+      "Enhancing mutual respect among faculty members, students, and staff.",
+      "Developing interpersonal skills.",
+      "Encouraging teamwork.",
+      "Self-accountability, evaluation, responsibility, and continuous improvement."
     ],
     "values_items": [
-      "Strive to achieve excellence in education",
-      "Promote transparency and accountability in all transactions",
-      "Promote scientific research",
-      "Support publication of peer-reviewed scientific research",
-      "Active participation",
-      "Respect data privacy and confidentiality",
-      "Promote creative thinking to find practical solutions to present and future challenges"
+      "Striving for excellence in education.",
+      "Promoting transparency and accountability in all dealings.",
+      "Enhancing scientific research.",
+      "Supporting the publication of peer-reviewed research.",
+      "Active participation.",
+      "Respecting data privacy and confidentiality.",
+      "Encouraging creative thinking to find practical solutions to present and future challenges."
     ]
   },
   "recent_news": {
-    "title": "Recent News",
-    "description": "Follow the latest news, events, and activities at Safwa University",
+    "title": "Latest News",
+    "description": "Stay updated with the latest news, events, and activities at Safwat Al-Safwa University.",
     "events": "Events",
     "scholarships": "Scholarships",
     "education": "Education",
-    "anniversary_celebration": "University Celebrates 10th Anniversary",
-    "anniversary_description": "Safwat Al-Safwa University celebrated its 10th anniversary with the presence of senior officials and academics. The celebration witnessed the honoring of outstanding students and distinguished faculty members, in addition to announcing new development projects aimed at enhancing educational and research quality.",
+    "anniversary_celebration": "The University Celebrates Its 10th Anniversary",
+    "anniversary_description": "Safwat Al-Safwa University celebrated its 10th anniversary in the presence of senior officials and academics. The event included honoring outstanding students and distinguished faculty members, as well as announcing new development projects aimed at enhancing educational and research quality.",
     "anniversary_date": "September 15, 2025",
-    "scholarship_program": "Launch of New Scholarship Program",
-    "scholarship_description": "The university announced the launch of a comprehensive scholarship program targeting outstanding students from various academic levels. The program covers full tuition fees in addition to a monthly stipend and free study materials for eligible students.",
+    "scholarship_program": "Launch of the New Scholarship Program",
+    "scholarship_description": "The university announced the launch of a comprehensive scholarship program targeting outstanding students across all academic levels. The program covers full tuition fees, a monthly allowance, and free study materials for eligible students.",
     "scholarship_date": "September 10, 2025",
     "lab_opening": "Opening of Advanced Scientific Laboratories",
-    "lab_description": "A group of advanced scientific laboratories was opened in the faculties of medicine, engineering, and sciences, equipped with the latest technologies and scientific equipment to provide an excellent educational and research environment for students and faculty members.",
+    "lab_description": "A series of advanced scientific laboratories were inaugurated in the Colleges of Medicine, Engineering, and Science, equipped with the latest technologies and devices to provide an exceptional learning and research environment for students and faculty members.",
     "lab_date": "September 5, 2025"
   },
   "remote_learning": {
-    "title": "Remote Learning",
-    "description": "Enables students from different geographical areas to learn through modern educational means; providing flexible educational opportunities for everyone at a pace that suits their individual needs",
+    "title": "Online Learning",
+    "description": "It enables students from different geographical regions to learn through modern educational tools, providing flexible learning opportunities for everyone at their own pace.",
     "learning_types": "Types of Learning",
     "synchronous_learning": "Synchronous Learning",
     "asynchronous_learning": "Asynchronous Learning",
-    "advantages_benefits": "Advantages & Benefits",
-    "synchronous_description": "Interactive live lectures through virtual classrooms via the internet",
-    "asynchronous_description": "Pre-recorded lectures that allow students to access them at the appropriate time for each student and participate in discussions",
-    "benefits_description": "Remote learning encourages self-directed and collaborative learning without the need to be present in traditional classrooms",
-    "synchronous_features": "Synchronous Learning Features:",
-    "asynchronous_features": "Asynchronous Learning Features:",
+    "advantages_benefits": "Advantages and Benefits",
+    "synchronous_description": "Live interactive lectures through virtual classrooms via the Internet.",
+    "asynchronous_description": "Pre-recorded lectures allowing students to access them at convenient times and participate in discussions.",
+    "benefits_description": "Online Learning encourages self-learning and collaborative education without the need to attend traditional classrooms.",
+    "synchronous_features": "Features of Synchronous Learning:",
+    "asynchronous_features": "Features of Asynchronous Learning:",
     "general_benefits": "General Benefits:",
     "tools_used": "Tools Used:",
     "learning_materials": "Learning Materials:",
     "available_fields": "Available Fields:",
     "synchronous_features_list": [
-      "No need to travel to campus",
-      "Saves time and reduces study costs",
-      "Direct interaction with instructor and colleagues",
-      "Ability to ask questions and get immediate answers",
-      "Screen and material sharing",
-      "Recording lectures for later review"
+      "No need to travel to the university campus.",
+      "Saves time and reduces study costs.",
+      "Direct interaction with the lecturer and peers.",
+      "Ability to ask questions and receive immediate answers.",
+      "Screen sharing and access to learning materials.",
+      "Lectures can be recorded for later review."
     ],
     "asynchronous_features_list": [
-      "Student studies at their convenient time",
-      "Review lectures as needed to enhance understanding",
-      "Complete flexibility in study scheduling",
-      "Ability to pause and replay as needed",
-      "Saves time and effort in commuting",
-      "Ability to study from anywhere"
+      "Students can study at their own suitable time.",
+      "Reviewing lectures as needed enhances understanding.",
+      "Full flexibility in scheduling study time.",
+      "Ability to pause and replay when necessary.",
+      "Saves time and effort spent on commuting.",
+      "Allows studying from anywhere."
     ],
     "general_benefits_list": [
-      "Reduces costs associated with traditional education such as travel and accommodation",
-      "Provides flexible educational opportunities for everyone",
-      "Encourages self-directed and collaborative learning",
-      "Enables access to education from anywhere in the world",
-      "Suitable for different learning styles",
-      "Provides a comfortable and suitable learning environment"
+      "Reduces costs associated with traditional education such as travel and accommodation.",
+      "Provides flexible learning opportunities for all.",
+      "Encourages self-learning and collaborative education.",
+      "Enables access to education from anywhere in the world.",
+      "Accommodates different learning styles.",
+      "Provides a comfortable and convenient learning environment."
     ],
     "tools_list": [
       "Interactive virtual classrooms",
-      "Video conferences",
+      "Video conferencing",
       "Digital interactive boards",
       "Learning management systems",
       "Direct assessment tools",
@@ -471,83 +383,83 @@
       "Interactive presentations",
       "Audio files",
       "E-books",
-      "Self-assessments",
+      "Self-assessment quizzes",
       "Discussion forums"
     ],
     "fields_list": [
-      "Academic Programs",
-      "Training Courses",
-      "Professional Certificates",
-      "Professional Development Programs",
-      "Graduate Studies",
-      "Specialized Programs"
+      "Academic programs",
+      "Training courses",
+      "Professional certificates",
+      "Professional development programs",
+      "Postgraduate studies",
+      "Specialized programs"
     ]
   },
   "research_center": {
     "title": "Research and Studies Center",
-    "description": "The center has created the first beacon for a better tomorrow for what the individual and society should be to contribute to achieving security, peace, and sustainable development in 246 volumes",
+    "description": "The center has established the first beacon for a better future, focusing on shaping individuals and societies to contribute to security, peace, and sustainable development, documented in 251 volumes.",
     "center_sections": "Center Sections",
     "scientific_research": "Scientific Research",
     "specialized_studies": "Specialized Studies",
     "scientific_publication": "Scientific Publication",
-    "scientific_research_description": "The center conducts more research and studies to achieve the university's goals in various scientific and academic fields",
-    "specialized_studies_description": "We provide specialized studies in various fields to achieve security, peace, and sustainable development in society",
-    "scientific_publication_description": "Publishing research and studies in 246 volumes to be a beacon of science and knowledge in various fields",
-    "research_goals": "Research Goals:",
-    "studies_goals": "Study Goals:",
-    "publication_goals": "Publication Goals:",
+    "scientific_research_description": "The center conducts research and studies to achieve the university’s goals across various scientific and academic fields.",
+    "specialized_studies_description": "We provide specialized studies in different fields to promote security, peace, and sustainable development within society.",
+    "scientific_publication_description": "Publishing research and studies in 251 volumes to serve as a beacon of knowledge and science across disciplines.",
+    "research_goals": "Research Objectives:",
+    "studies_goals": "Study Objectives:",
+    "publication_goals": "Publication Objectives:",
     "research_fields": "Research Fields:",
     "study_types": "Types of Studies:",
     "center_publications": "Center Publications:",
     "research_goals_list": [
-      "Produce distinguished scientific research that contributes to sustainable development",
-      "Support researchers and academics in various specializations",
-      "Develop scientific and technical knowledge",
-      "Contribute to solving societal problems",
-      "Enhance research cooperation with local and international institutions"
+      "Produce high-quality scientific research that contributes to sustainable development.",
+      "Support researchers and academics across various disciplines.",
+      "Advance scientific and technical knowledge.",
+      "Contribute to solving societal problems.",
+      "Enhance research collaboration with local and international institutions."
     ],
     "studies_goals_list": [
-      "Conduct in-depth studies on societal issues",
-      "Develop sustainable development strategies",
-      "Analyze trends and future challenges",
-      "Provide recommendations and practical solutions",
-      "Support decision-making in institutions"
+      "Conduct in-depth studies on social issues.",
+      "Develop sustainable development strategies.",
+      "Analyze trends and future challenges.",
+      "Provide recommendations and practical solutions.",
+      "Support decision-making in institutions."
     ],
     "publication_goals_list": [
-      "Publish scientific and academic knowledge",
-      "Make research available to researchers and interested parties",
-      "Develop the Arabic scientific library",
-      "Enhance scientific and knowledge exchange",
-      "Contribute to building a knowledge society"
+      "Disseminate scientific and academic knowledge.",
+      "Make research accessible to scholars and interested readers.",
+      "Develop the Arabic scientific library.",
+      "Promote academic and knowledge exchange.",
+      "Contribute to building a knowledge-based society."
     ],
     "research_fields_list": [
-      "Medical and Health Sciences",
-      "Engineering and Technical Sciences",
-      "Humanities and Social Sciences",
-      "Administrative and Economic Sciences",
-      "Islamic and Religious Sciences",
-      "Applied Sciences"
+      "Medical and health sciences",
+      "Engineering and technological sciences",
+      "Humanities and social sciences",
+      "Administrative and economic sciences",
+      "Sharia and religious sciences",
+      "Applied sciences"
     ],
     "study_types_list": [
-      "Strategic Studies",
-      "Economic Feasibility Studies",
-      "Social Studies",
-      "Human Development Studies",
-      "Environmental Studies",
-      "Technology Studies"
+      "Strategic studies",
+      "Economic feasibility studies",
+      "Social studies",
+      "Human development studies",
+      "Environmental studies",
+      "Technology studies"
     ],
     "publications_list": [
-      "Peer-Reviewed Scientific Journals",
-      "Books and Scientific References",
-      "Research Reports",
-      "Scientific Papers",
-      "Exploratory Studies",
-      "Electronic Publications"
+      "Peer-reviewed scientific journals",
+      "Scientific books and references",
+      "Research reports",
+      "Scientific papers",
+      "Exploratory studies",
+      "Electronic publications"
     ]
   },
   "stats": {
     "title": "University Statistics",
-    "description": "The university provides a leading educational experience that combines quality, knowledge, and scientific research, with an academic environment that stimulates creativity and innovation to serve society locally and internationally.",
+    "description": "The university offers a leading educational experience that combines quality, knowledge, and scientific research, within an academic environment that fosters creativity and innovation to serve society locally and internationally.",
     "learn_more": "Learn More",
     "virtual_tour": "Virtual Tour",
     "academic_programs": "Academic Programs",
@@ -555,143 +467,153 @@
   },
   "vision": {
     "title": "Our Vision",
-    "description": "We strive to achieve a comprehensive vision that places Safwat Al-Safwa University at the forefront",
-    "basic_vision": "Basic Vision",
-    "basic_vision_text": "Providing high-quality education with continuous updating of curricula to match scientific progress",
+    "description": "We strive to achieve a comprehensive vision that places Safwat Al-Safwa University at the forefront.",
+    "basic_vision": "Core Vision",
+    "basic_vision_text": "Providing high-quality education with continuous curriculum updates to align with scientific progress.",
     "continuous_education": "Continuous Education",
-    "continuous_education_text": "Providing continuous education opportunities for graduates and interested community members to keep pace with rapid scientific development",
+    "continuous_education_text": "Providing continuous learning opportunities for graduates and individuals who wish to keep up with rapid scientific developments.",
     "educational_environment": "Educational Environment",
-    "educational_environment_text": "Providing an inspiring and innovative educational environment with a focus on interactive, self-directed, and collaborative learning",
-    "distance_learning": "Distance Learning",
-    "distance_learning_text": "Enhancing distance learning to obtain scientific material at the appropriate time and reduce study costs",
+    "educational_environment_text": "Creating an inspiring and innovative learning environment focused on interactive, self, and collaborative education.",
+    "distance_learning": "Online Learning",
+    "distance_learning_text": "Enhancing Online Learning to access educational materials at the right time while reducing study costs.",
     "academic_integration": "Academic Integration",
-    "academic_integration_text": "Horizontal and vertical integration of curricula with semester-based study system",
+    "academic_integration_text": "Horizontal and vertical integration of curricula with a semester-based study system.",
     "scientific_research": "Scientific Research",
-    "scientific_research_text": "Conducting practical research and studies to solve current and expected challenges",
+    "scientific_research_text": "Conducting research and applied studies to solve current and anticipated challenges.",
     "leadership_preparation": "Leadership Preparation",
-    "leadership_preparation_text": "Graduating highly qualified students with insightful vision in various university specializations",
+    "leadership_preparation_text": "Graduating highly qualified students with visionary perspectives across the university’s disciplines.",
     "international_cooperation": "International Cooperation",
-    "international_cooperation_text": "Cooperation with specialized universities and institutions with establishing strong international partnerships"
+    "international_cooperation_text": "Collaborating with specialized universities and institutions to establish strong international partnerships."
   },
   "faculty": {
     "title": "Faculties",
-    "description": "Learn about the faculties that provide education at the university",
+    "description": "Discover the faculties that offer education at the university.",
     "faculties_title": "Faculties",
-    "faculty_goals": "Faculty Goals:",
-    "available_specialties": "Available Specialties:",
+    "faculty_goals": "Faculty Objectives:",
+    "available_specialties": "Faculty Departments:",
     "faculty_departments": "Faculty Departments:",
     "medicine": {
       "name": "Faculty of Medicine",
-      "description": "Aims to provide high-quality medical education, training, and practical experience before graduation for students to become qualified to provide distinguished medical services and take responsibility for their mistakes.",
+      "description": "Aims to provide high-quality medical education, training, and practical experience before graduation, preparing students to deliver outstanding medical services with accountability for their outcomes.",
       "goals": [
-        "Provide high-quality medical education, training, and practical experience",
-        "Support medical research and innovation",
-        "Contribute to providing distinguished healthcare"
+        "Provide high-quality medical education, training, and practice.",
+        "Support medical research and innovation.",
+        "Contribute to providing distinguished healthcare services."
       ],
       "specialties": [
-        "Internal Medicine",
-        "General Surgery",
-        "Pediatrics",
-        "Obstetrics and Gynecology",
-        "Ophthalmology",
-        "Cardiology",
-        "Neurology",
-        "Dermatology",
-        "Ear, Nose and Throat",
-        "Orthopedics"
+        "Department of Anatomy",
+        "Department of Biochemistry",
+        "Department of Physiology",
+        "Department of Basic Medical Sciences",
+        "Department of Neurosurgery",
+        "Department of Microbiology",
+        "Department of Pathology",
+        "Department of Histology",
+        "Department of Internal Medicine",
+        "Department of Surgery",
+        "Department of Pediatrics",
+        "Department of Cardiology",
+        "Department of Obstetrics and Gynecology",
+        "Department of Ophthalmology",
+        "Department of ENT (Ear, Nose, and Throat)",
+        "Department of Orthopedics",
+        "Department of Dermatology and Venereology",
+        "Department of Urology",
+        "Department of Anesthesiology",
+        "Department of Radiology and Medical Imaging",
+        "Department of Psychiatry",
+        "Department of Oncology and Nuclear Medicine",
+        "Department of Forensic Medicine and Toxicology",
+        "Department of Hematology and Immunology",
+        "Department of Intensive Care",
+        "Department of Medical Education",
+        "Department of Family and Community Medicine",
+        "Department of Physical Medicine, Rheumatology, and Rehabilitation",
+        "Department of Emergency Medicine"
       ]
     },
     "dentistry": {
-      "name": "Faculty of Oral and Dental Medicine",
-      "description": "Aims to provide high-quality education in oral and dental medicine, training, and practical application before graduation for students to become qualified to provide distinguished oral and dental healthcare services.",
+      "name": "Faculty of Dentistry",
+      "description": "Aims to provide high-quality education in oral and dental medicine, training, and practical application before graduation, preparing students to deliver excellent dental healthcare.",
       "goals": [
-        "Provide high-quality education in oral and dental medicine",
-        "Support scientific research and innovation in oral and dental medicine",
-        "Contribute to providing oral and dental healthcare"
+        "Provide high-quality education in oral and dental medicine.",
+        "Support scientific research and innovation in dentistry.",
+        "Contribute to providing quality oral and dental healthcare."
       ],
       "specialties": [
-        "Oral and Maxillofacial Surgery",
-        "Orthodontics",
-        "Pediatric Dentistry",
-        "Dental Implants",
-        "Endodontics",
-        "Cosmetic Dentistry",
-        "Periodontics",
-        "Preventive Dentistry",
-        "Prosthodontics",
-        "Forensic Dentistry",
-        "Laser Dentistry",
-        "Digital Dentistry",
-        "Geriatric Dentistry",
-        "Sports Dentistry",
-        "Veterinary Dentistry",
-        "Dental Radiology",
-        "Restorative Dentistry",
-        "Advanced Cosmetic Dentistry",
-        "Neuro-Dentistry",
-        "Genetic Dentistry"
+        "Department of Dental Biochemistry",
+        "Department of Dental Physiology",
+        "Department of Basic and Clinical Oral Sciences",
+        "Department of Preventive Dentistry",
+        "Department of Oral and Maxillofacial Surgery",
+        "Department of Conservative Dentistry",
+        "Department of Pediatric Dentistry",
+        "Department of Prosthodontics",
+        "Department of Orthodontics",
+        "Department of Periodontology",
+        "Department of Oral Radiology"
       ]
     },
     "medical_sciences": {
       "name": "Faculty of Medical Sciences",
-      "description": "Aims to provide high-quality education in medical sciences fields, training, and practical experience before graduation for students to become distinguished specialists in their medical fields.",
+      "description": "Aims to provide high-quality education and training in medical sciences to prepare specialized professionals in various health disciplines.",
       "goals": [
-        "Provide high-quality education in medical sciences fields",
-        "Support scientific research and innovation in medical sciences",
-        "Contribute to providing distinguished healthcare"
+        "Provide high-quality education in medical sciences.",
+        "Support scientific research and innovation in medical fields.",
+        "Contribute to providing excellent healthcare."
       ],
       "departments": [
-        "Nursing Department",
-        "Physical Therapy Department",
-        "Medical Laboratories Department",
-        "Radiology Department",
-        "Therapeutic Nutrition Department",
-        "Public Health Department"
+        "Department of Nursing",
+        "Department of Physiotherapy",
+        "Department of Medical Laboratories",
+        "Department of Radiology",
+        "Department of Clinical Nutrition",
+        "Department of Public Health"
       ]
     },
     "engineering": {
       "name": "Faculty of Engineering",
-      "description": "Aims to provide high-quality engineering education, training, and practical experience before graduation for students to meet labor market needs.",
+      "description": "Aims to provide high-quality engineering education, training, and practical experience before graduation to meet the demands of the job market.",
       "goals": [
-        "Provide high-quality engineering education, training, and practical experience",
-        "Support scientific research and innovation in engineering fields",
-        "Contribute to community development and improving quality of life"
+        "Provide high-quality engineering education, training, and practice.",
+        "Support research and innovation in engineering fields.",
+        "Contribute to community development and quality of life improvement."
       ],
       "departments": [
-        "Civil Engineering Department",
-        "Architecture Department",
-        "Electrical Engineering Department",
-        "Computer Engineering Department",
-        "Mechanical Engineering Department",
-        "Chemical Engineering Department",
-        "Petroleum Engineering Department",
-        "Industrial Engineering Department"
+        "Civil Engineering",
+        "Architectural Engineering",
+        "Electrical Engineering",
+        "Computer Engineering",
+        "Mechanical Engineering",
+        "Chemical Engineering",
+        "Petroleum Engineering",
+        "Industrial Engineering"
       ]
     },
     "management": {
       "name": "Faculty of Management",
-      "description": "Aims to provide high-quality education in business administration and accounting fields, training, and practical experience before graduation for students in companies and institutions to meet labor market needs.",
+      "description": "Aims to provide high-quality education in business administration and accounting, including training and practical application before graduation to meet market needs.",
       "goals": [
-        "Provide high-quality education in business administration and accounting fields",
-        "Develop leadership, management, and accounting skills among students",
-        "Contribute to community development and improving quality of life"
+        "Provide high-quality education in business administration and accounting.",
+        "Develop leadership, management, and accounting skills among students.",
+        "Contribute to community development and quality of life improvement."
       ],
       "departments": [
-        "Business Administration Department",
-        "Accounting Department",
-        "Marketing Department",
-        "Finance Department",
-        "Human Resources Department",
-        "Management Information Systems Department"
+        "Business Administration",
+        "Accounting",
+        "Marketing",
+        "Finance",
+        "Human Resources",
+        "Management Information Systems"
       ]
     },
     "law": {
       "name": "Faculty of Law",
-      "description": "Aims to provide high-quality education in human rights and law fields, training, and practical experience before graduation for students to become qualified to work in the judiciary, as lawyers, or consultants.",
+      "description": "Aims to provide high-quality education in human rights and law, including training and practical application before graduation to qualify students for careers in the judiciary, legal practice, or consultancy.",
       "goals": [
-        "Provide high-quality education in human rights and law fields",
-        "Develop legal knowledge and deep understanding of laws and regulations",
-        "Contribute to achieving justice through applying legal knowledge"
+        "Provide high-quality education in human rights and law.",
+        "Develop legal knowledge and a deep understanding of laws and regulations.",
+        "Contribute to achieving justice through the application of legal knowledge."
       ],
       "specialties": [
         "Civil Law",
@@ -706,65 +628,65 @@
     },
     "humanities": {
       "name": "Faculty of Humanities",
-      "description": "Aims to provide high-quality education in advocacy and media fields, training, and practical experience before graduation for students to qualify them to understand and analyze human and cultural phenomena.",
+      "description": "Aims to provide high-quality education in fields such as Da’wah (Islamic preaching) and media, training, and practical experience before graduation to qualify students to understand and analyze human and cultural phenomena.",
       "goals": [
-        "Provide high-quality education in advocacy and media fields",
-        "Contribute to community development and improving quality of life"
+        "Provide high-quality education in Da’wah and media.",
+        "Contribute to community development and enhancement of life quality."
       ],
       "departments": [
-        "Advocacy Department",
-        "Media Department",
-        "Philosophy Department",
-        "History Department",
-        "Psychology Department",
-        "Sociology Department"
+        "Da’wah",
+        "Media",
+        "Philosophy",
+        "History",
+        "Psychology",
+        "Sociology"
       ]
     },
     "community_development": {
       "name": "Faculty of Community Development",
-      "description": "Aims to provide high-quality education in community development and social work fields, training, and practical experience before graduation for students to qualify them to become specialists in community development and social work.",
+      "description": "Aims to provide high-quality education in community development and social work, with practical training to prepare students as professionals in social and community development.",
       "goals": [
-        "Provide high-quality education in community development and social work fields",
-        "Contribute to community development and improving quality of life"
+        "Provide high-quality education in community development and social work.",
+        "Contribute to community growth and quality of life improvement."
       ],
       "specialties": [
         "Social Work",
         "Local Community Development",
         "Sustainable Development",
-        "Non-Profit Organization Management",
+        "Nonprofit Organization Management",
         "Rural Development",
         "Urban Development"
       ]
     },
     "computer_science": {
       "name": "Faculty of Computer Science and Information Systems",
-      "description": "Aims to provide high-quality education in computer science and information technology fields, training, and practical experience before graduation for students to qualify them to become specialists in software design and development and information systems.",
+      "description": "Aims to provide high-quality education in computer science and information technology, with training and practical experience to prepare students as specialists in software development and information systems.",
       "goals": [
-        "Provide high-quality education in computer science and information technology fields",
-        "Qualify students to become specialists in software design and development"
+        "Provide high-quality education in computer science and IT.",
+        "Prepare students to become professionals in software design and development."
       ],
       "specialties": [
         "Computer Science",
         "Software Engineering",
         "Information Systems",
-        "Information Security",
+        "Cybersecurity",
         "Artificial Intelligence",
         "Web Development",
-        "Database Systems",
+        "Databases",
         "Networking"
       ]
     },
     "languages_translation": {
       "name": "Faculty of Languages and Translation",
-      "description": "Aims to provide high-quality education in languages and translation fields, training, and practical experience before graduation to qualify them to become experts in languages and translation.",
+      "description": "Aims to provide high-quality education in languages and translation, with training and practice to prepare students as experts in linguistic and translation fields.",
       "goals": [
-        "Provide high-quality education in languages and translation fields",
-        "Develop linguistic knowledge and deep understanding of languages and cultures",
-        "Contribute to facilitating linguistic communication between different cultures"
+        "Provide high-quality education in languages and translation.",
+        "Enhance linguistic knowledge and deep cultural understanding.",
+        "Facilitate linguistic and cultural communication among different cultures."
       ],
       "specialties": [
         "Written Translation",
-        "Oral Translation",
+        "Interpretation",
         "Simultaneous Translation",
         "Literary Translation",
         "Technical Translation",
@@ -774,76 +696,84 @@
       ]
     }
   },
+  "application": {
+    "title": "Application Dates",
+    "description": "Applications are open for three academic terms each year.",
+    "february": "February",
+    "feb_date": "Beginning of the Second Semester",
+    "june": "June",
+    "june_date": "Beginning of the Summer Semester",
+    "october": "October",
+    "oct_date": "Beginning of the First Semester"
+  },
   "breadcrumb": {
     "home": "Home"
   },
   "admissions": {
     "main_title": "Start Your Academic Journey Today",
-    "main_description": "Safwat Al Safwa University is committed to providing high-quality education to graduate distinguished students who compete with students from the finest universities. We focus on interactive, self-directed, and collaborative learning, scientific research, and training to establish knowledge.",
+    "main_description": "Safwat Al-Safwa University is committed to providing high-quality education to graduate outstanding students who can compete with those from the finest universities. We focus on interactive, self, and collaborative learning, along with research and training to instill knowledge.",
     "how_to_apply": "How to Apply",
     "steps": {
       "step1": {
-        "title": "Submit Application",
+        "title": "Submit the Application",
         "description": "Fill out the online application form and submit all required documents through the university website"
       },
       "step2": {
-        "title": "Submit Documents",
-        "description": "Send all required documents such as academic certificates, ID photos, and personal photos"
+        "title": "Send Documents",
+        "description": "Send all required documents such as academic certificates, ID copies, and personal photos"
       },
       "step3": {
         "title": "Personal Interview",
-        "description": "You will be invited for a personal interview with the admissions committee to evaluate your abilities and academic qualifications"
+        "description": "You will be invited for an interview with the admissions committee to assess your abilities and academic qualifications"
       },
       "step4": {
         "title": "Receive Decision",
-        "description": "You will receive notification of the admission or rejection decision via email or text messages"
+        "description": "You will receive notification of acceptance or rejection via email or text message"
       }
     },
-    "important_dates": "Important Admission Deadlines",
+    "important_dates": "Important Admission Dates",
     "deadlines": {
-      "semester1": "First Semester",
-      "semester2": "Second Semester",
-      "summer": "Summer Semester",
-      "early_admission": "Early Admission"
+      "february": "February",
+      "june": "June",
+      "october": "October"
     },
     "dates": {
-      "march_15": "March 15, 2024",
-      "october_1": "October 1, 2024",
-      "january_30": "January 30, 2025",
-      "november_15": "November 15, 2024"
+      "february_date": "February 2025",
+      "june_date": "June 2025",
+      "october_date": "October 2025"
     },
     "requirements": "Admission Requirements",
     "requirements_list": {
       "academic_records": {
         "title": "Academic Records",
-        "description": "High school diploma or equivalent with official transcript"
+        "description": "High school certificate or equivalent with official transcripts"
       },
       "recommendation_letters": {
         "title": "Recommendation Letters",
-        "description": "Two recommendation letters from previous teachers or academic supervisors"
+        "description": "Two recommendation letters from former teachers or academic supervisors"
       },
       "personal_statement": {
         "title": "Personal Statement",
-        "description": "Write a personal statement explaining your academic and professional goals and reasons for choosing the university"
+        "description": "Write a personal statement explaining your academic and career goals and reasons for choosing the university"
       },
       "standardized_tests": {
         "title": "Standardized Tests",
-        "description": "Results of standardized tests or English language tests according to the required specialization"
+        "description": "Results of aptitude or English language tests as required by the program"
       }
     },
     "request_info": {
       "title": "Request Information",
-      "description": "Do you have questions about the admission process or available programs? Contact us for more information",
+      "description": "Have questions about the admission process or available programs? Contact us for more details",
       "form": {
         "name_placeholder": "Full Name",
-        "email_placeholder": "Email Address",
+        "email_placeholder": "Email",
         "phone_placeholder": "Phone Number",
         "program_placeholder": "Desired Program",
         "message_placeholder": "Questions or Comments",
         "submit_button": "Submit Request",
         "programs": {
-          "bachelor": "Bachelor's",
-          "master": "Master's",
+          "bachelor": "Bachelor’s",
+          "master": "Master’s",
           "phd": "PhD",
           "diploma": "Diploma"
         }
@@ -852,75 +782,148 @@
     "cta": {
       "campus_visit": {
         "title": "Campus Visit",
-        "description": "Learn about the university facilities and distinguished learning environment through a campus visit",
-        "button": "Book Visit"
+        "description": "Discover the university’s facilities and exceptional learning environment through an on-campus visit",
+        "button": "Book a Visit"
       },
       "ready_to_apply": {
         "title": "Ready to Apply?",
-        "description": "Start your academic journey with Safwat Al Safwa University and be part of our distinguished community",
+        "description": "Start your academic journey with Safwat Al-Safwa University and become part of our distinguished community",
         "button": "Start Application"
       }
     }
   },
+  "aboutUniversity": {
+    "title": "About the University",
+    "principlesTitle": "Principles",
+    "principles": {
+      "p1": "Instilling and developing good morals.",
+      "p2": "Promoting respect for human rights.",
+      "p3": "Prohibiting all forms of discrimination.",
+      "p4": "Promoting mutual respect among faculty, students, and staff.",
+      "p5": "Enhancing interpersonal skills.",
+      "p6": "Encouraging teamwork.",
+      "p7": "Self-accountability, evaluation, responsibility, and correction."
+    },
+    "valuesTitle": "Values",
+    "values": {
+      "v1": "Striving for excellence in education.",
+      "v2": "Promoting transparency and accountability in all dealings.",
+      "v3": "Enhancing scientific research.",
+      "v4": "Supporting the publication of peer-reviewed scientific research.",
+      "v5": "Active participation.",
+      "v6": "Respecting privacy and data confidentiality.",
+      "v7": "Promoting creative thinking to find practical solutions for current and future challenges."
+    },
+    "visionTitle": "Vision",
+    "vision": {
+      "v1": "Providing high-quality education.",
+      "v2": "Continuous updating of curricula to keep pace with scientific progress.",
+      "v3": "Providing continuing education opportunities for graduates and community members to keep up with rapid scientific advancement and meet current and future labor market needs.",
+      "v4": "Providing an innovative and stimulating learning environment.",
+      "v5": "Focusing on interactive, self, and collaborative learning and research to deepen knowledge.",
+      "v6": "Enhancing Online Learning to access study materials conveniently and reduce study costs.",
+      "v7": "Horizontal and vertical integration of curricula.",
+      "v8": "Adopting the semester system to accommodate students’ varying abilities and capacities.",
+      "v9": "Each semester, the student studies:",
+      "v10": "University requirements to ensure progress in professional life and earn the Associate Diploma.",
+      "v11": "College requirements for obtaining a Bachelor’s degree.",
+      "v12": "Conducting practical research and studies to address current and future challenges.",
+      "v13": "Graduating highly qualified students with sharp vision to become future leaders.",
+      "v14": "Respecting others’ ideas and beliefs.",
+      "v15": "Evaluating practical experience.",
+      "v16": "Contributing to community service.",
+      "v17": "Preparing future leaders.",
+      "v18": "Supporting sustainable development.",
+      "v19": "International collaboration and building strong partnerships with universities and specialized institutions."
+    },
+    "missionTitle": "Mission",
+    "mission": {
+      "m1": "Instilling and developing good morals.",
+      "m2": "Building and developing self-confidence.",
+      "m3": "Providing high-quality education and practical training to equip students with scientific and practical tools before graduation to produce outstanding graduates.",
+      "m4": "Fostering creativity to develop innovative solutions to current and expected challenges.",
+      "m5": "Producing distinguished research that contributes to sustainable development.",
+      "m6": "Protecting human rights.",
+      "m7": "Promoting knowledge exchange with universities and specialized institutions."
+    },
+    "goalsTitle": "Goals",
+    "goals": {
+      "g1": "Qualify students to become specialists in their fields.",
+      "g2": "Support scientific research and innovation across various disciplines.",
+      "g3": "Enhance knowledge and understanding in multiple scientific areas.",
+      "g4": "Contribute to community development."
+    },
+    "benefitsTitle": "Benefits of Studying at the University",
+    "benefits": {
+      "b1": "Provide effective education and sufficient training for success in a rapidly evolving world.",
+      "b2": "Develop critical and creative thinking skills for problem-solving.",
+      "b3": "Earn an internationally recognized degree.",
+      "b4": "Easily access job opportunities in both private and public sectors locally and globally.",
+      "b5": "Actively contribute to community development."
+    },
+    "degreesTitle": "Degrees Awarded by the University",
+    "degrees": {
+      "d1": "Associate Degree (Intermediate University Diploma)",
+      "d2": "Bachelor’s Degree",
+      "d3": "Higher Diploma",
+      "d4": "Master’s Degree",
+      "d5": "Doctoral Degree (PhD)"
+    }
+  },
   "page_titles": {
     "about": {
-      "title": "About University",
-      "description": "Safwat Al-Safwa University is committed to providing high-quality education to graduate distinguished students who compete with students from the finest universities",
-      "current_page": "About University"
+      "title": "About the University",
+      "description": "Safwat Al-Safwa University is committed to providing high-quality education to graduate outstanding students who can compete with those from the finest universities.",
+      "current_page": "About the University"
     },
     "admissions": {
-      "title": "University Admissions",
-      "description": "Learn about admission requirements and available programs at Safwat Al-Safwa University",
-      "current_page": "Admissions"
+      "title": "Admissions and Registration",
+      "description": "Start your academic journey with Safwat Al-Safwa University and explore exceptional educational opportunities available to you.",
+      "current_page": "Admissions and Registration"
     },
     "faculty": {
       "title": "Faculties",
-      "description": "Learn about the faculties that provide education at the university",
+      "description": "Learn about the faculties offering education at the university.",
       "current_page": "Faculties"
     },
     "institutes": {
       "title": "Institutes",
-      "description": "Discover the specialized institutes at Safwat Al-Safwa University",
+      "description": "Explore the specialized institutes at Safwat Al-Safwa University.",
       "current_page": "Institutes"
     },
     "contact": {
       "title": "Contact Us",
-      "description": "We are here to help you with any inquiry or request",
+      "description": "We are here to assist you with any inquiry or request.",
       "current_page": "Contact Us"
     },
     "login": {
       "title": "Login",
-      "description": "Sign in to your account to access electronic services",
+      "description": "Access your account to use electronic services.",
       "current_page": "Login"
     },
-    "admissions": {
-      "title": "Admissions & Registration",
-      "description": "Learn how to apply to the university and important admission deadlines",
-      "current_page": "Admissions"
-    },
     "remote_learning": {
-      "title": "Remote Learning",
-      "description": "Enables students from different geographical areas to learn through modern educational means; providing flexible educational opportunities for everyone",
-      "current_page": "Remote Learning"
+      "title": "Online Learning",
+      "description": "Allows students from different regions to learn using modern educational tools to provide flexible learning opportunities for everyone.",
+      "current_page": "Online Learning"
     },
     "research_center": {
-      "title": "Research & Studies Center",
-      "description": "The center has created the first beacon for a better tomorrow for what the individual and society should be to contribute to achieving security, peace, and sustainable development in 246 volumes",
-      "current_page": "Research Center"
+      "title": "Research and Studies Center",
+      "description": "The center established the first beacon for a better tomorrow, guiding individuals and society toward peace, security, and sustainable development across 251 volumes.",
+      "current_page": "Research and Studies Center"
     },
     "privacy": {
       "title": "Privacy Policy",
-      "description": "Learn about the university's privacy policy",
+      "description": "Learn about the university’s privacy policy.",
       "current_page": "Privacy Policy"
     },
     "terms_of_service": {
-      "title": "Terms & Conditions",
-      "description": "Learn about the university's terms and conditions",
-      "current_page": "Terms & Conditions"
+      "title": "Terms and Conditions",
+      "description": "Read the university’s terms and conditions.",
+      "current_page": "Terms and Conditions"
     },
     "error_page": {
       "title": "Page Not Found",
-      "description": "The page you are looking for may have been deleted, renamed, or temporarily unavailable",
+      "description": "The page you are looking for may have been deleted, renamed, or temporarily unavailable.",
       "current_page": "Error 404"
     }
   }

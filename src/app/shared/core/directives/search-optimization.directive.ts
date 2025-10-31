@@ -13,7 +13,7 @@ export class SearchOptimizationDirective implements OnInit {
     private el: ElementRef,
     private renderer: Renderer2,
     private languageService: LanguageService
-  ) {}
+  ) { }
 
   ngOnInit() {
     this.optimizeElementForSearch();
@@ -101,7 +101,7 @@ export class SearchOptimizationDirective implements OnInit {
         'higher education',
         'academic programs',
         'Saudi universities',
-        'distance learning',
+        'Online Learning',
         'faculties and institutes',
         'scientific research',
         'university education',
