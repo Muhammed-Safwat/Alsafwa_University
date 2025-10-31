@@ -12,7 +12,7 @@ export class SearchOptimizationService {
     private title: Title,
     private languageService: LanguageService,
     @Inject(PLATFORM_ID) private platformId: Object
-  ) {}
+  ) { }
 
   // Optimize search results appearance
   optimizeSearchResults(page: string): void {
@@ -157,7 +157,7 @@ export class SearchOptimizationService {
           ...baseData,
           "description": isArabic
             ? "نظام التعلم عن بعد في جامعة صفوت الصفوة الدولية يوفر مرونة في التعليم"
-            : "The distance learning system at Safwat Al Safwa International University provides educational flexibility"
+            : "The Online Learning system at Safwat Al Safwa International University provides educational flexibility"
         };
 
       case 'contact':
@@ -270,7 +270,7 @@ export class SearchOptimizationService {
           'audience': 'الطلاب، المعلمين'
         },
         en: {
-          'page-topic': 'Distance Learning',
+          'page-topic': 'Online Learning',
           'page-type': 'Educational',
           'audience': 'Students, Teachers'
         }

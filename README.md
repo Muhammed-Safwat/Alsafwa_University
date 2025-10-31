@@ -358,15 +358,15 @@ this.seoService.updateSEO(seoData);
 
 ## 🛠️ التقنيات المستخدمة / Technology Stack
 
-| التقنية / Technology | الإصدار / Version | الغرض / Purpose | الفائدة / Benefit |
-|------------|---------|---------|---------|
-| **Angular** | 19.1.0 | إطار العمل الأمامي / Frontend Framework | تطوير سريع ومحسن |
-| **TypeScript** | 5.7.2 | لغة البرمجة / Programming Language | كود آمن ومنظم |
-| **SCSS** | Latest | معالج CSS / CSS Preprocessor | تنسيقات متقدمة |
-| **ngx-translate** | 17.0.0 | الترجمة / Internationalization | دعم متعدد اللغات |
-| **RxJS** | 7.8.0 | البرمجة التفاعلية / Reactive Programming | إدارة البيانات |
-| **AOS** | Latest | مكتبة الحركات / Animation Library | تجربة مستخدم محسنة |
-| **Bootstrap** | 5.3.3 | إطار CSS / CSS Framework | تصميم متجاوب |
+| التقنية / Technology | الإصدار / Version | الغرض / Purpose                          | الفائدة / Benefit  |
+| -------------------- | ----------------- | ---------------------------------------- | ------------------ |
+| **Angular**          | 19.1.0            | إطار العمل الأمامي / Frontend Framework  | تطوير سريع ومحسن   |
+| **TypeScript**       | 5.7.2             | لغة البرمجة / Programming Language       | كود آمن ومنظم      |
+| **SCSS**             | Latest            | معالج CSS / CSS Preprocessor             | تنسيقات متقدمة     |
+| **ngx-translate**    | 17.0.0            | الترجمة / Internationalization           | دعم متعدد اللغات   |
+| **RxJS**             | 7.8.0             | البرمجة التفاعلية / Reactive Programming | إدارة البيانات     |
+| **AOS**              | Latest            | مكتبة الحركات / Animation Library        | تجربة مستخدم محسنة |
+| **Bootstrap**        | 5.3.3             | إطار CSS / CSS Framework                 | تصميم متجاوب       |
 
 ---
 
@@ -382,7 +382,7 @@ src/
 │   │   ├── faculty/            # الكليات / Faculty
 │   │   ├── institutes/         # المعاهد / Institutes
 │   │   ├── research/           # مركز البحوث / Research Center
-│   │   ├── remote-learning/    # التعلم عن بعد / Remote Learning
+│   │   ├── remote-learning/    # التعلم عن بعد / Online Learning
 │   │   ├── contact/            # اتصل بنا / Contact Us
 │   │   └── privacy/            # الخصوصية / Privacy
 │   ├── shared/
@@ -519,14 +519,14 @@ private readonly defaultImage = '/assets/img/logo.webp';
 
 ## 📝 الأوامر المتاحة / Available Scripts
 
-| الأمر / Command | الوصف / Description |
-|---------|-------------|
-| `ng serve` | تشغيل خادم التطوير / Start development server |
-| `ng build` | بناء للإنتاج / Build for production |
-| `ng test` | تشغيل الاختبارات / Run unit tests |
-| `ng lint` | تشغيل فحص الكود / Run linting |
+| الأمر / Command   | الوصف / Description                            |
+| ----------------- | ---------------------------------------------- |
+| `ng serve`        | تشغيل خادم التطوير / Start development server  |
+| `ng build`        | بناء للإنتاج / Build for production            |
+| `ng test`         | تشغيل الاختبارات / Run unit tests              |
+| `ng lint`         | تشغيل فحص الكود / Run linting                  |
 | `ng build --prod` | بناء محسن للإنتاج / Optimized production build |
-| `ng serve --open` | تشغيل وفتح المتصفح / Serve and open browser |
+| `ng serve --open` | تشغيل وفتح المتصفح / Serve and open browser    |
 
 ---
 

@@ -3,10 +3,10 @@
           type="button"
           data-bs-toggle="dropdown"
           aria-expanded="false">
-    <img [src]="currentLang === 'ar' ? '/assets/img/flags/saudi-flag.svg' : '/assets/img/flags/uk-flag.avif'"
+    <img [src]="currentLang === 'ar' ? '/assets/img/flags/saudi-flag.svg' : '/assets/img/flags/us.png'"
          [alt]="currentLang === 'ar' ? 'Saudi Arabia Flag' : 'UK Flag'"
          class="flag-icon">
-         <span class="language-text">{{ currentLang === 'ar' ? ('language.arabic' | translate) : ('language.english' | translate) }}</span>
+    <span class="language-text">{{ currentLang === 'ar' ? ('language.arabic' | translate) : ('language.english' | translate) }}</span>
   </button>
   <ul class="dropdown-menu dropdown-menu-end">
     <li>
@@ -23,7 +23,7 @@
       <a class="dropdown-item d-flex gap-2 align-items-center"
          (click)="changeLanguage('en')"
          [class.active]="currentLang === 'en'">
-        <img src="/assets/img/flags/uk-flag.avif"
+        <img src="/assets/img/flags/us.png"
              alt="UK Flag"
              class="flag-icon me-2">
         <span>{{ 'language.english' | translate }}</span>

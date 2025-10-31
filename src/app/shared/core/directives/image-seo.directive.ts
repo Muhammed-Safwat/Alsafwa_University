@@ -14,7 +14,7 @@ export class ImageSeoDirective implements OnInit {
     private el: ElementRef,
     private renderer: Renderer2,
     private languageService: LanguageService
-  ) {}
+  ) { }
 
   ngOnInit() {
     this.setImageAttributes();
@@ -88,7 +88,7 @@ export class ImageSeoDirective implements OnInit {
         technology: 'Modern Technology at Safwat Al Safwa International University',
         admissions: 'Admissions and Registration Department at Safwat Al Safwa International University',
         institutes: 'Institutes and Centers at Safwat Al Safwa International University',
-        'remote-learning': 'Distance Learning System at Safwat Al Safwa International University',
+        'remote-learning': 'Online Learning System at Safwat Al Safwa International University',
         contact: 'Contact Information for Safwat Al Safwa International University',
         about: 'About Safwat Al Safwa International University Page',
         default: 'Image from Safwat Al Safwa International University'

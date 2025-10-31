@@ -135,7 +135,7 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- Remote Learning Page - Arabic -->
+  <!-- Online Learning Page - Arabic -->
   <url>
     <loc>https://alsafwa-university.com/ar/remote-learning</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/remote-learning"/>
@@ -145,7 +145,7 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- Remote Learning Page - English -->
+  <!-- Online Learning Page - English -->
   <url>
     <loc>https://alsafwa-university.com/en/remote-learning</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://alsafwa-university.com/en/remote-learning"/>

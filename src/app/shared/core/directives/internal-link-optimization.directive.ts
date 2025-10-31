@@ -13,7 +13,7 @@ export class InternalLinkOptimizationDirective implements OnInit {
     private el: ElementRef,
     private renderer: Renderer2,
     private languageService: LanguageService
-  ) {}
+  ) { }
 
   ngOnInit() {
     this.optimizeInternalLink();
@@ -143,7 +143,7 @@ export class InternalLinkOptimizationDirective implements OnInit {
         'Faculty': 'Faculties - Safwat Al Safwa International University',
         'Institutes': 'Institutes - Safwat Al Safwa International University',
         'Research': 'Research Center - Safwat Al Safwa University',
-        'Remote Learning': 'Distance Learning - Safwat Al Safwa University',
+        'Online Learning': 'Online Learning - Safwat Al Safwa University',
         'Contact': 'Contact Safwat Al Safwa International University'
       }
     };

@@ -36,7 +36,7 @@ export class SEOService {
     private router: Router,
     private languageService: LanguageService,
     @Inject(PLATFORM_ID) private platformId: Object
-  ) {}
+  ) { }
 
   updateSEO(seoData: Partial<SEOData>): void {
     if (!isPlatformBrowser(this.platformId)) return;
@@ -221,7 +221,7 @@ export class SEOService {
         home: {
           title: 'Safwat Al Safwa International University - Home',
           description: 'Safwat Al Safwa International University - A leading educational institution offering distinguished academic programs in various specializations. Discover our academic programs and educational services.',
-          keywords: 'Safwat Al Safwa University, higher education, academic programs, Saudi universities, distance learning, faculties, institutes'
+          keywords: 'Safwat Al Safwa University, higher education, academic programs, Saudi universities, Online Learning, faculties, institutes'
         },
         about: {
           title: 'About Safwat Al Safwa International University - Our Vision & Mission',
@@ -249,9 +249,9 @@ export class SEOService {
           keywords: 'research center, scientific studies, academic research, innovation, scientific journals'
         },
         'remote-learning': {
-          title: 'Distance Learning - Safwat Al Safwa International University',
-          description: 'The distance learning system at Safwat Al Safwa International University provides educational flexibility while maintaining academic quality.',
-          keywords: 'distance learning, e-learning, educational flexibility, learning platforms'
+          title: 'Online Learning - Safwat Al Safwa International University',
+          description: 'The Online Learning system at Safwat Al Safwa International University provides educational flexibility while maintaining academic quality.',
+          keywords: 'Online Learning, e-learning, educational flexibility, learning platforms'
         },
         contact: {
           title: 'Contact Us - Safwat Al Safwa International University',
