@@ -6,7 +6,7 @@
        data-aos-delay="100">
     <div class="row mb-5">
       <div class="col-lg-8 mx-auto text-center">
-        <h2 class="display-6 fw-bold mb-4">{{ 'research_center.title' | translate }}</h2>
+        <!--h2-- class="display-6 fw-bold mb-4">{{ 'research_center.title' | translate }}</!--h2-->
         <p class="lead">{{ 'research_center.description' | translate }}</p>
       </div>
     </div>
@@ -53,7 +53,8 @@
                 <div class="institute-goals">
                   <h5>{{ 'research_center.research_goals' | translate }}</h5>
                   <ul class="list-unstyled">
-                    <li *ngFor="let goal of 'research_center.research_goals_list' | translate" class="d-flex align-items-center mb-2">
+                    <li *ngFor="let goal of 'research_center.research_goals_list' | translate"
+                        class="d-flex align-items-center mb-2">
                       <i class="bi bi-check-circle text-primary me-2"></i>
                       <span>{{ goal }}</span>
                     </li>
@@ -65,7 +66,8 @@
                   <h5>{{ 'research_center.research_fields' | translate }}</h5>
                   <div class="row">
                     <div class="col-12">
-                      <span *ngFor="let field of 'research_center.research_fields_list' | translate" class="badge bg-primary me-2 mb-2">{{ field }}</span>
+                      <span *ngFor="let field of 'research_center.research_fields_list' | translate"
+                            class="badge bg-primary me-2 mb-2">{{ field }}</span>
                     </div>
                   </div>
                 </div>
@@ -85,7 +87,8 @@
                 <div class="institute-goals">
                   <h5>{{ 'research_center.studies_goals' | translate }}</h5>
                   <ul class="list-unstyled">
-                    <li *ngFor="let goal of 'research_center.studies_goals_list' | translate" class="d-flex align-items-center mb-2">
+                    <li *ngFor="let goal of 'research_center.studies_goals_list' | translate"
+                        class="d-flex align-items-center mb-2">
                       <i class="bi bi-check-circle text-primary me-2"></i>
                       <span>{{ goal }}</span>
                     </li>
@@ -97,7 +100,8 @@
                   <h5>{{ 'research_center.study_types' | translate }}</h5>
                   <div class="row">
                     <div class="col-12">
-                      <span *ngFor="let type of 'research_center.study_types_list' | translate" class="badge bg-primary me-2 mb-2">{{ type }}</span>
+                      <span *ngFor="let type of 'research_center.study_types_list' | translate"
+                            class="badge bg-primary me-2 mb-2">{{ type }}</span>
                     </div>
                   </div>
                 </div>
@@ -117,7 +121,8 @@
                 <div class="institute-goals">
                   <h5>{{ 'research_center.publication_goals' | translate }}</h5>
                   <ul class="list-unstyled">
-                    <li *ngFor="let goal of 'research_center.publication_goals_list' | translate" class="d-flex align-items-center mb-2">
+                    <li *ngFor="let goal of 'research_center.publication_goals_list' | translate"
+                        class="d-flex align-items-center mb-2">
                       <i class="bi bi-check-circle text-primary me-2"></i>
                       <span>{{ goal }}</span>
                     </li>
@@ -129,7 +134,8 @@
                   <h5>{{ 'research_center.center_publications' | translate }}</h5>
                   <div class="row">
                     <div class="col-12">
-                      <span *ngFor="let publication of 'research_center.publications_list' | translate" class="badge bg-primary me-2 mb-2">{{ publication }}</span>
+                      <span *ngFor="let publication of 'research_center.publications_list' | translate"
+                            class="badge bg-primary me-2 mb-2">{{ publication }}</span>
                     </div>
                   </div>
                 </div>

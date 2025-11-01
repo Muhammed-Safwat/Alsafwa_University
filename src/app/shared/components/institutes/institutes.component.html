@@ -1,32 +1,44 @@
 <!-- Institutes Section -->
-<section id="institutes" class="institutes section">
-  <div class="container" data-aos="fade-up" data-aos-delay="100">
+<section id="institutes"
+         class="institutes section">
+  <div class="container"
+       data-aos="fade-up"
+       data-aos-delay="100">
     <div class="row mb-5">
       <div class="col-lg-8 mx-auto text-center">
-        <h2 class="display-6 fw-bold mb-4">{{ 'institutes.title' | translate }}</h2>
+        <!--h2-- class="display-6 fw-bold mb-4">{{ 'institutes.title' | translate }}</!--h2-->
         <p class="lead">{{ 'institutes.description' | translate }}</p>
       </div>
     </div>
 
     <div class="row">
-      <div class="col-lg-3" data-aos="fade-up" data-aos-delay="300">
+      <div class="col-lg-3"
+           data-aos="fade-up"
+           data-aos-delay="300">
         <div class="departments-nav">
           <h4 class="departments-title">{{ 'institutes.institutes_title' | translate }}</h4>
           <ul class="nav nav-tabs flex-column">
             <li class="nav-item">
-              <button class="nav-link active" data-bs-toggle="tab" data-bs-target="#institute-tab-1">{{ 'institutes.arabic_language_institute' | translate }}</button>
+              <button class="nav-link active"
+                      data-bs-toggle="tab"
+                      data-bs-target="#institute-tab-1">{{ 'institutes.arabic_language_institute' | translate }}</button>
             </li>
             <li class="nav-item">
-              <button class="nav-link" data-bs-toggle="tab" data-bs-target="#institute-tab-2">{{ 'institutes.applied_sciences_institute' | translate }}</button>
+              <button class="nav-link"
+                      data-bs-toggle="tab"
+                      data-bs-target="#institute-tab-2">{{ 'institutes.applied_sciences_institute' | translate }}</button>
             </li>
           </ul>
         </div>
       </div>
 
-      <div class="col-lg-9" data-aos="fade-up" data-aos-delay="400">
+      <div class="col-lg-9"
+           data-aos="fade-up"
+           data-aos-delay="400">
         <div class="tab-content">
           <!-- معهد اللغة العربية -->
-          <div class="tab-pane fade show active" id="institute-tab-1">
+          <div class="tab-pane fade show active"
+               id="institute-tab-1">
             <div class="department-info mb-4">
               <h3>{{ 'institutes.arabic_language_institute' | translate }}</h3>
               <p class="lead">{{ 'institutes.arabic_language_description' | translate }}</p>
@@ -36,7 +48,8 @@
                 <div class="institute-goals">
                   <h5>{{ 'institutes.institute_goals' | translate }}</h5>
                   <ul class="list-unstyled">
-                    <li *ngFor="let goal of 'institutes.arabic_goals' | translate" class="d-flex align-items-center mb-2">
+                    <li *ngFor="let goal of 'institutes.arabic_goals' | translate"
+                        class="d-flex align-items-center mb-2">
                       <i class="bi bi-check-circle text-primary me-2"></i>
                       <span>{{ goal }}</span>
                     </li>
@@ -48,7 +61,8 @@
                   <h5>{{ 'institutes.available_programs' | translate }}</h5>
                   <div class="row">
                     <div class="col-12">
-                      <span *ngFor="let program of 'institutes.arabic_programs' | translate" class="badge bg-primary me-2 mb-2">{{ program }}</span>
+                      <span *ngFor="let program of 'institutes.arabic_programs' | translate"
+                            class="badge bg-primary me-2 mb-2">{{ program }}</span>
                     </div>
                   </div>
                 </div>
@@ -57,7 +71,8 @@
           </div>
 
           <!-- معهد العلوم التطبيقية -->
-          <div class="tab-pane fade" id="institute-tab-2">
+          <div class="tab-pane fade"
+               id="institute-tab-2">
             <div class="department-info mb-4">
               <h3>{{ 'institutes.applied_sciences_institute' | translate }}</h3>
               <p class="lead">{{ 'institutes.applied_sciences_description' | translate }}</p>
@@ -67,7 +82,8 @@
                 <div class="institute-goals">
                   <h5>{{ 'institutes.institute_goals' | translate }}</h5>
                   <ul class="list-unstyled">
-                    <li *ngFor="let goal of 'institutes.applied_sciences_goals' | translate" class="d-flex align-items-center mb-2">
+                    <li *ngFor="let goal of 'institutes.applied_sciences_goals' | translate"
+                        class="d-flex align-items-center mb-2">
                       <i class="bi bi-check-circle text-primary me-2"></i>
                       <span>{{ goal }}</span>
                     </li>
@@ -79,7 +95,8 @@
                   <h5>{{ 'institutes.available_programs' | translate }}</h5>
                   <div class="row">
                     <div class="col-12">
-                      <span *ngFor="let program of 'institutes.applied_sciences_programs' | translate" class="badge bg-primary me-2 mb-2">{{ program }}</span>
+                      <span *ngFor="let program of 'institutes.applied_sciences_programs' | translate"
+                            class="badge bg-primary me-2 mb-2">{{ program }}</span>
                     </div>
                   </div>
                 </div>
