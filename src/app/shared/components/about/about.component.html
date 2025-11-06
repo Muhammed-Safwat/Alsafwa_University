@@ -18,8 +18,7 @@
              *ngIf="currentLang === 'en'"-->
 
         <div class="lead text-center mt-3 mb-4">
-          <p>{{ 'history.description' | translate }}</p>
-          <ul class="m-0 pt-2">
+          <ul class="m-0 p-0">
             <li *ngFor="let item of ('history.details' | translate)">
               {{ item }}
             </li>
